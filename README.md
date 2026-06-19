@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=210&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20Web&descAlignY=55&descSize=17" />
@@ -30,7 +31,7 @@ Atualmente também atuo com **suporte técnico ao usuário**, realizando atendim
 
 Meu objetivo é evoluir como desenvolvedor, criar projetos reais e conquistar uma oportunidade de **estágio** ou **vaga júnior** em desenvolvimento de software.
 
-Gosto de transformar ideias em ferramentas úteis, principalmente quando envolvem automação, APIs, OCR, IA e interfaces bem organizadas.
+Gosto de transformar ideias em ferramentas úteis, principalmente quando envolvem automação, APIs, OCR, IA, processamento de imagens e interfaces bem organizadas.
 
 <br clear="right"/>
 
@@ -69,42 +70,58 @@ Status: construindo projetos reais e evoluindo todos os dias
   <img src="https://img.shields.io/badge/NVIDIA%20API-020617?style=for-the-badge&logo=nvidia&logoColor=38BDF8" />
 </p>
 
+<p>
+  <a href="https://github.com/HenriquePvAr/Tradutor.Ia">
+    <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-38BDF8?style=for-the-badge&logo=github&logoColor=020617" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-## Prévia do Tradutor.Ia
+## Prévia visual
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Imagem original</h3>
-      <img width="330" src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663629905361/dRMAWPggRDgCSJvj.png" />
-    </td>
-    <td width="50%" align="center">
-      <h3>Tradução gerada</h3>
-      <br>
-      <strong>Balão 1</strong>
-      <br><br>
-      <pre>
-╭────────────────────────────╮
-│   MINHA RELAÇÃO COM        │
-│        HAE-IN...           │
-╰────────────────────────────╯
-      </pre>
-      <br>
-      <strong>Balão 2</strong>
-      <br><br>
-      <pre>
-╭────────────────────────────╮
-│ ...COMEÇOU COM APENAS      │
-│ DUAS PESSOAS SE ESBARRANDO │
-│ NA ESTAÇÃO DE TREM.        │
-╰────────────────────────────╯
-      </pre>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img width="850" src="./assets/tradutor-preview-comparacao.png" alt="Prévia do Tradutor.Ia mostrando comparação entre imagem original e tradução gerada pelo pipeline" />
+
+</div>
+
+---
+
+## O que acontece no pipeline
+
+<div align="center">
+
+```txt
+Página / imagem
+      ↓
+Download ou entrada local
+      ↓
+OCR detecta os textos nos balões
+      ↓
+Textos são organizados na ordem correta
+      ↓
+IA traduz os blocos em lote
+      ↓
+Cache evita retraduzir conteúdo repetido
+      ↓
+Resultado salvo em JSON/TXT
+      ↓
+Base para edição final, imagem traduzida ou PDF
+```
+
+</div>
+
+```mermaid
+flowchart LR
+    A[Entrada da página] --> B[OCR dos balões]
+    B --> C[Organização dos textos]
+    C --> D[Tradução em lote com IA]
+    D --> E[Cache e JSON]
+    E --> F[Saída final]
+```
 
 ---
 
@@ -124,64 +141,41 @@ Status: construindo projetos reais e evoluindo todos os dias
       <pre>
 My relationship with Hae-In...
 
-...began with just two people
-bumping into each other
-at the train station. </pre> </td> <td> <pre>
+...started from just two people
+running into each other
+at the train station.
+      </pre>
+    </td>
+    <td>
+      <pre>
 Minha relação com Hae-In...
 
 ...começou com apenas duas pessoas
 se esbarrando
-na estação de trem. </pre> </td>
-
+na estação de trem.
+      </pre>
+    </td>
   </tr>
 </table>
 
 ---
 
-## Fluxo do Tradutor.Ia
+## Funcionalidades do Tradutor.Ia
 
-<div align="center">
+- Download automatizado de páginas
+- Detecção de texto em imagens
+- OCR com organização por balões
+- Tradução em lote usando IA
+- Cache para evitar retrabalho
+- Exportação de resultados em JSON/TXT
+- Base para geração de imagem final ou PDF
+- Estrutura pensada para evoluir em etapas
 
-```txt
-Imagem da página
-      ↓
-OCR detecta os balões
-      ↓
-Textos são organizados em blocos
-      ↓
-IA traduz em lote
-      ↓
-Cache evita retrabalho
-      ↓
-Resultado salvo em JSON/TXT
-      ↓
-Base para imagem final ou PDF
-```
+---
 
-</div>
+## Por que esse projeto é importante
 
-```mermaid
-flowchart LR
-    A[Download das páginas] --> B[OCR dos balões]
-    B --> C[Organização dos textos]
-    C --> D[Tradução com IA]
-    D --> E[Cache e JSON]
-    E --> F[Saída final]
-```
-
-### O que esse projeto trabalha
-
-* Download automatizado de páginas
-* Detecção de texto em imagens
-* OCR com organização por balões
-* Tradução em lote usando IA
-* Cache para evitar retraduzir conteúdo repetido
-* Exportação de resultados em JSON/TXT
-* Base para geração de imagem final ou PDF
-
-### Por que esse projeto é importante
-
-O **Tradutor.Ia** é meu projeto principal porque junta várias áreas que estou estudando:
+O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que estou estudando e aplicando na prática:
 
 ```txt
 Python
@@ -366,21 +360,21 @@ Git e GitHub
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas**
-Centro Universitário ESBAM
+**Análise e Desenvolvimento de Sistemas**  
+Centro Universitário ESBAM  
 2025 - 2027
 
 ---
 
 ## Cursos e certificações
 
-* HTML5 e CSS3 - Curso em Vídeo
-* Python para Análise de Dados, Data Science e Machine Learning - Data Science Academy
-* Fundamentos de Data Science e Inteligência Artificial - Data Science Academy
-* Fundamentos de Engenharia de Dados - Data Science Academy
-* Power BI para Business Intelligence e Data Science - Data Science Academy
-* Introdução à Cibersegurança - Cisco Networking Academy
-* Android com Kotlin e Jetpack Compose - FIAP / Eu Capacito
+- HTML5 e CSS3 - Curso em Vídeo
+- Python para Análise de Dados, Data Science e Machine Learning - Data Science Academy
+- Fundamentos de Data Science e Inteligência Artificial - Data Science Academy
+- Fundamentos de Engenharia de Dados - Data Science Academy
+- Power BI para Business Intelligence e Data Science - Data Science Academy
+- Introdução à Cibersegurança - Cisco Networking Academy
+- Android com Kotlin e Jetpack Compose - FIAP / Eu Capacito
 
 ---
 
@@ -438,3 +432,4 @@ Tenho interesse principalmente em:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0f172a,100:020617&height=120&section=footer" />
+````
