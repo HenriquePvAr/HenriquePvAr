@@ -51,12 +51,6 @@ Gosto de transformar ideias em ferramentas práticas, principalmente quando envo
 
 </div>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:38BDF8&height=2&section=footer" />
-
-</div>
-
 ---
 
 # Projeto em destaque
@@ -97,7 +91,7 @@ Gosto de transformar ideias em ferramentas práticas, principalmente quando envo
 
 ---
 
-## O que acontece no pipeline
+## Como funciona
 
 <div align="center">
 
@@ -183,7 +177,7 @@ na estação de trem.
 
 ---
 
-## Funcionalidades do Tradutor.Ia
+## Recursos do Tradutor.Ia
 
 <div align="center">
 
@@ -191,15 +185,15 @@ na estação de trem.
   <tr>
     <td align="center" width="33%">
       <strong>OCR organizado</strong><br>
-      <sub>Identificação dos textos dentro das imagens</sub>
+      <sub>Identificação de textos em imagens</sub>
     </td>
     <td align="center" width="33%">
       <strong>Tradução em lote</strong><br>
-      <sub>Menos chamadas e melhor aproveitamento da API</sub>
+      <sub>Menos chamadas e melhor uso da API</sub>
     </td>
     <td align="center" width="33%">
       <strong>Cache inteligente</strong><br>
-      <sub>Evita retraduzir conteúdo repetido</sub>
+      <sub>Evita retrabalho em textos repetidos</sub>
     </td>
   </tr>
   <tr>
@@ -212,7 +206,7 @@ na estação de trem.
       <sub>Base para saída final editada</sub>
     </td>
     <td align="center" width="33%">
-      <strong>Pipeline evolutivo</strong><br>
+      <strong>Pipeline modular</strong><br>
       <sub>Estrutura preparada para melhorias</sub>
     </td>
   </tr>
@@ -222,19 +216,7 @@ na estação de trem.
 
 ---
 
-## Por que esse projeto é importante
-
-O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que estou estudando e aplicando na prática:
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1600&pause=450&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+%7C+OCR+%7C+Automa%C3%A7%C3%A3o;APIs+%7C+Cache+%7C+JSON;IA+%7C+NLP+%7C+Tradu%C3%A7%C3%A3o;Processamento+de+imagens+%7C+Pipelines" alt="Áreas do projeto" />
-
-</div>
-
----
-
-## Stack que estou fortalecendo
+## Stack principal
 
 <div align="center">
 
@@ -245,28 +227,28 @@ O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que esto
       <br>
       <strong>Python</strong>
       <br>
-      <sub>Scripts, automação, dados e pipelines</sub>
+      <sub>Scripts, automação e pipelines</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" />
       <br>
-      <strong>OCR & Visão Computacional</strong>
+      <strong>OCR & Imagem</strong>
       <br>
-      <sub>Texto em imagem, OpenCV e processamento visual</sub>
+      <sub>Texto em imagem e visão computacional</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
       <br>
       <strong>Dados</strong>
       <br>
-      <sub>Manipulação, organização e estruturas de saída</sub>
+      <sub>JSON, estruturas e processamento</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
       <br>
       <strong>Web</strong>
       <br>
-      <sub>Interfaces, HTML, CSS e JavaScript</sub>
+      <sub>HTML, CSS e JavaScript</sub>
     </td>
   </tr>
 </table>
@@ -279,7 +261,7 @@ O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que esto
 
 <div align="center">
 
-### Python e dados
+### Python, dados e arquivos
 
 <p>
   <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
@@ -288,7 +270,7 @@ O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que esto
   <img src="https://img.shields.io/badge/JSON-020617?style=for-the-badge&logo=json&logoColor=38BDF8" />
 </p>
 
-### Automação, OCR e imagem
+### OCR, automação e imagem
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-020617?style=for-the-badge&logo=selenium&logoColor=38BDF8" />
@@ -306,7 +288,7 @@ O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que esto
   <img src="https://img.shields.io/badge/APIs-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
 </p>
 
-### Web e ferramentas
+### Web e ambiente
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=38BDF8" />
@@ -320,42 +302,7 @@ O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que esto
 
 ---
 
-## Ambiente de desenvolvimento
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Editor</strong><br>
-      <sub>VS Code e PyCharm</sub><br><br>
-      <img src="https://img.shields.io/badge/Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Linguagem principal</strong><br>
-      <sub>Python</sub><br><br>
-      <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Foco atual</strong><br>
-      <sub>OCR, IA e automação</sub><br><br>
-      <img src="https://img.shields.io/badge/OCR%20%2B%20IA-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Organização</strong><br>
-      <sub>Projetos, cache e pipelines</sub><br><br>
-      <img src="https://img.shields.io/badge/Pipelines-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## Estudos e evolução
-
-Atualmente estou aprofundando meus estudos em áreas ligadas ao ecossistema Python e aplicações práticas com IA.
+## Estudos em andamento
 
 <div align="center">
 
@@ -389,75 +336,6 @@ Atualmente estou aprofundando meus estudos em áreas ligadas ao ecossistema Pyth
 <a href="https://github.com/HenriquePvAr/analisador-logs-android">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=analisador-logs-android&theme=tokyonight&hide_border=true" />
 </a>
-
-</div>
-
----
-
-## Conquistas e evolução
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HenriquePvAr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
-
-</div>
-
----
-
-## Outros projetos e estudos
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Analisador de Logs Android</h3>
-      <p align="center">
-        Ferramenta em Python para analisar logs Android e identificar possíveis problemas como crashes, ANRs e uso de memória.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Logs-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Debug-0f172a?style=for-the-badge" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Automação com Python</h3>
-      <p align="center">
-        Scripts e pequenos projetos voltados para automação, organização de arquivos, integração com APIs e produtividade.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Desenvolvimento Web</h3>
-      <p align="center">
-        Estudos e projetos com HTML, CSS e JavaScript, com foco em interfaces responsivas, organização visual e experiência do usuário.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">IA, OCR e Dados</h3>
-      <p align="center">
-        Estudos em inteligência artificial, OCR, Machine Learning, NLP, análise de dados e aplicações práticas com Python.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/OCR-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Dados-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 </div>
 
