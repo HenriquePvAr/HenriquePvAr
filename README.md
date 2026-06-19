@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=210&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20OCR%20%7C%20Web&descAlignY=55&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=220&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20OCR%20%7C%20Web&descAlignY=55&descSize=17" />
 
 <p>
   <a href="mailto:henriquepaiva128@gmail.com">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Python+%7C+Automa%C3%A7%C3%A3o+%7C+OCR+%7C+IA;Criando+pipelines+com+APIs%2C+cache+e+dados;Transformando+ideias+em+ferramentas+com+Python;Evoluindo+um+commit+de+cada+vez" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=820&lines=Python+%7C+Automa%C3%A7%C3%A3o+%7C+OCR+%7C+IA;Criando+pipelines+com+APIs%2C+cache+e+dados;Transformando+ideias+em+ferramentas+com+Python;Evoluindo+um+commit+de+cada+vez" alt="Typing SVG" />
 
 </div>
 
@@ -41,7 +41,13 @@ Gosto de transformar ideias em ferramentas práticas, principalmente quando envo
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=600&color=38BDF8&background=02061700&vCenter=true&multiline=true&repeat=true&width=760&height=135&lines=%24+python+profile.py;Inicializando+ambiente+Python...;Carregando+automa%C3%A7%C3%B5es%2C+OCR+e+IA...;Conectando+APIs%2C+dados+e+pipelines...;Status%3A+evoluindo+um+commit+de+cada+vez" alt="Terminal animado" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1700&pause=500&color=38BDF8&background=02061700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=155&lines=%24+python+profile.py;Inicializando+ambiente+Python...;Carregando+OCR%2C+IA+e+automa%C3%A7%C3%B5es...;Organizando+dados%2C+APIs+e+pipelines...;Compilando+ideias+em+ferramentas+%C3%BAteis...;Status%3A+evoluindo+um+commit+de+cada+vez" alt="Terminal animado" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:38BDF8&height=2&section=footer" />
 
 </div>
 
@@ -51,7 +57,7 @@ Gosto de transformar ideias em ferramentas práticas, principalmente quando envo
 
 <div align="center">
 
-## Tradutor.Ia
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2300&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Tradutor.Ia;OCR+%2B+IA+%2B+Python;Pipeline+de+tradu%C3%A7%C3%A3o+em+imagens" alt="Tradutor.Ia animado" />
 
 <p>
   Pipeline em Python para automatizar tradução de páginas com texto em imagem, usando OCR, IA, cache e processamento em lote.
@@ -130,21 +136,7 @@ Gosto de transformar ideias em ferramentas práticas, principalmente quando envo
 
 <div align="center">
 
-```txt
-Página / imagem
-      ↓
-OCR detecta os textos nos balões
-      ↓
-Textos são organizados na ordem correta
-      ↓
-IA traduz os blocos em lote
-      ↓
-Cache evita retraduzir conteúdo repetido
-      ↓
-Resultado salvo em JSON/TXT
-      ↓
-Base para edição final, imagem traduzida ou PDF
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1500&pause=400&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=145&lines=Imagem+%2F+p%C3%A1gina+recebida;OCR+detecta+os+textos+nos+bal%C3%B5es;Textos+s%C3%A3o+organizados+na+ordem+correta;IA+traduz+os+blocos+em+lote;Cache+evita+retrabalho;Resultado+salvo+em+JSON%2FTXT" alt="Pipeline animado" />
 
 </div>
 
@@ -187,14 +179,40 @@ na estação de trem.
 
 ## Funcionalidades do Tradutor.Ia
 
-- Download automatizado de páginas
-- Detecção de texto em imagens
-- OCR com organização por balões
-- Tradução em lote usando IA
-- Cache para evitar retrabalho
-- Exportação de resultados em JSON/TXT
-- Base para geração de imagem final ou PDF
-- Estrutura pensada para evoluir em etapas
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>OCR organizado</strong><br>
+      <sub>Identificação dos textos dentro das imagens</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Tradução em lote</strong><br>
+      <sub>Menos chamadas e melhor aproveitamento da API</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Cache inteligente</strong><br>
+      <sub>Evita retraduzir conteúdo repetido</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>JSON/TXT</strong><br>
+      <sub>Resultados salvos de forma organizada</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Imagem/PDF</strong><br>
+      <sub>Base para saída final editada</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Pipeline evolutivo</strong><br>
+      <sub>Estrutura preparada para melhorias</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -202,18 +220,11 @@ na estação de trem.
 
 O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que estou estudando e aplicando na prática:
 
-```txt
-Python
-OCR
-Automação
-APIs
-Inteligência Artificial
-Processamento de imagens
-Organização de dados
-Cache
-JSON
-Pipeline de software
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1600&pause=450&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+%7C+OCR+%7C+Automa%C3%A7%C3%A3o;APIs+%7C+Cache+%7C+JSON;IA+%7C+NLP+%7C+Tradu%C3%A7%C3%A3o;Processamento+de+imagens+%7C+Pipelines" alt="Áreas do projeto" />
+
+</div>
 
 ---
 
@@ -307,20 +318,24 @@ Pipeline de software
 
 Atualmente estou aprofundando meus estudos em áreas ligadas ao ecossistema Python e aplicações práticas com IA.
 
-```txt
-Python aplicado a projetos práticos
-Automação de tarefas
-Integração com APIs
-OCR e processamento de imagens
-Manipulação de arquivos e JSON
-Cache e otimização de pipelines
-Análise de dados com Python
-Machine Learning
-NLP e tradução automática
-Visão computacional
-Organização de projetos Python
-Boas práticas de código
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Python aplicado</strong><br><sub>projetos práticos</sub></td>
+    <td align="center" width="25%"><strong>Automação</strong><br><sub>tarefas e scripts</sub></td>
+    <td align="center" width="25%"><strong>APIs</strong><br><sub>integrações e dados</sub></td>
+    <td align="center" width="25%"><strong>OCR</strong><br><sub>texto em imagem</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Machine Learning</strong><br><sub>modelos e conceitos</sub></td>
+    <td align="center" width="25%"><strong>NLP</strong><br><sub>tradução e linguagem</sub></td>
+    <td align="center" width="25%"><strong>Visão Computacional</strong><br><sub>imagem e processamento</sub></td>
+    <td align="center" width="25%"><strong>Boas práticas</strong><br><sub>organização e evolução</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -422,6 +437,24 @@ Centro Universitário ESBAM
 
 ---
 
+## Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriquePvAr&bg_color=020617&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:38BDF8&height=125&section=header&text=Python%20%7C%20OCR%20%7C%20IA%20%7C%20Automa%C3%A7%C3%A3o&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+
+</div>
+
+---
+
 ## Objetivo
 
 Busco crescer como desenvolvedor, aplicar meus conhecimentos em projetos úteis e evoluir tecnicamente todos os dias.
@@ -456,4 +489,4 @@ Tenho interesse principalmente em:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0f172a,100:020617&height=120&section=footer" />
-````
+```
