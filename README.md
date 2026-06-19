@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=220&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20OCR%20%7C%20Web&descAlignY=55&descSize=17" />
@@ -329,13 +328,20 @@ na estação de trem.
 
 <div align="center">
 
-<a href="https://github.com/HenriquePvAr/Tradutor.Ia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=Tradutor.Ia&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/HenriquePvAr/analisador-logs-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=analisador-logs-android&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/HenriquePvAr/Tradutor.Ia">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=Tradutor.Ia&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/HenriquePvAr/analisador-logs-android">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=analisador-logs-android&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -432,4 +438,3 @@ Tenho interesse principalmente em:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0f172a,100:020617&height=120&section=footer" />
-```
