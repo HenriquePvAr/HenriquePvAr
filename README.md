@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=210&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20Web&descAlignY=55&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=210&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20OCR%20%7C%20Web&descAlignY=55&descSize=17" />
 
 <p>
   <a href="mailto:henriquepaiva128@gmail.com">
@@ -14,7 +15,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Python%2C+automa%C3%A7%C3%A3o+e+IA;Desenvolvimento+Web+e+interfaces;Criando+projetos+reais+e+evoluindo+todos+os+dias" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+para+automa%C3%A7%C3%A3o%2C+IA+e+OCR;Pipelines%2C+APIs+e+processamento+de+imagens;Criando+projetos+reais+e+evoluindo+todos+os+dias" alt="Typing SVG" />
 
 </div>
 
@@ -24,13 +25,15 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base como desenvolvedor com foco principal em **Python**, automação, inteligência artificial e desenvolvimento web.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base como desenvolvedor com foco principal em **Python**.
+
+Tenho interesse em automação, inteligência artificial, OCR, processamento de imagens, APIs, dados e desenvolvimento web.
 
 Atualmente também atuo com **suporte técnico ao usuário**, realizando atendimento, diagnóstico de problemas, apoio a sistemas internos e colaboração com equipe técnica.
 
 Meu objetivo é evoluir como desenvolvedor, criar projetos reais e conquistar uma oportunidade de **estágio** ou **vaga júnior** em desenvolvimento de software.
 
-Gosto de transformar ideias em ferramentas úteis, principalmente quando envolvem automação, APIs, OCR, IA, processamento de imagens e interfaces bem organizadas.
+Gosto de transformar ideias em ferramentas úteis, principalmente quando envolvem automação, APIs, OCR, IA, cache, processamento de dados e pipelines bem organizados.
 
 <br clear="right"/>
 
@@ -43,7 +46,7 @@ $ python profile.py
 
 Carregando perfil...
 Foco principal: Python
-Áreas: Automação, IA, Web, Dados e Android
+Áreas: Automação, IA, OCR, APIs, Dados e Web
 Status: construindo projetos reais e evoluindo todos os dias
 ```
 
@@ -108,22 +111,22 @@ Status: construindo projetos reais e evoluindo todos os dias
     <td align="center" width="16%">
       <strong>03</strong><br><br>
       <strong>Organização</strong><br>
-      <sub>Textos ordenados corretamente</sub>
+      <sub>Textos ordenados para tradução</sub>
     </td>
     <td align="center" width="16%">
       <strong>04</strong><br><br>
-      <strong>Tradução em lote</strong><br>
-      <sub>Blocos enviados para a IA</sub>
+      <strong>Tradução</strong><br>
+      <sub>Blocos enviados em lote para IA</sub>
     </td>
     <td align="center" width="16%">
       <strong>05</strong><br><br>
-      <strong>Cache + JSON</strong><br>
-      <sub>Evita retrabalho e salva resultados</sub>
+      <strong>Cache</strong><br>
+      <sub>Evita chamadas repetidas</sub>
     </td>
     <td align="center" width="16%">
       <strong>06</strong><br><br>
-      <strong>Saída final</strong><br>
-      <sub>Base para imagem traduzida ou PDF</sub>
+      <strong>Saída</strong><br>
+      <sub>JSON, TXT, imagem ou PDF</sub>
     </td>
   </tr>
 </table>
@@ -214,44 +217,46 @@ APIs
 Inteligência Artificial
 Processamento de imagens
 Organização de dados
+Cache
+JSON
 Pipeline de software
 ```
 
 ---
 
-## Foco principal
+## Stack que estou fortalecendo
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
       <br>
       <strong>Python</strong>
       <br>
-      <sub>Lógica, scripts, automação, dados e IA</sub>
+      <sub>Scripts, automação, dados e pipelines</sub>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" />
+      <br>
+      <strong>OCR & Visão Computacional</strong>
+      <br>
+      <sub>Texto em imagem, OpenCV e processamento visual</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
+      <br>
+      <strong>Dados</strong>
+      <br>
+      <sub>Manipulação, organização e estruturas de saída</sub>
+    </td>
+    <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
       <br>
       <strong>Web</strong>
       <br>
-      <sub>HTML, CSS, JavaScript e interfaces</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" />
-      <br>
-      <strong>Java</strong>
-      <br>
-      <sub>POO, organização e base para Android</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" />
-      <br>
-      <strong>Android</strong>
-      <br>
-      <sub>Kotlin, Jetpack Compose e mobile</sub>
+      <sub>Interfaces, HTML, CSS e JavaScript</sub>
     </td>
   </tr>
 </table>
@@ -260,52 +265,69 @@ Pipeline de software
 
 ---
 
-## Python na prática
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Dados-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/IA-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/OCR-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-
-</div>
-
-<br>
-
-Estou usando Python para fortalecer minha lógica e criar ferramentas úteis, principalmente em:
-
-```txt
-Automação de tarefas
-Scripts para resolver problemas reais
-Manipulação e análise de dados
-Integração com APIs
-Inteligência Artificial
-Machine Learning
-OCR e processamento de imagens
-Ferramentas para diagnóstico e suporte técnico
-```
-
----
-
 ## Tecnologias e ferramentas
 
 <div align="center">
 
-### Linguagens
+### Python e dados
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<p>
+  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JSON-020617?style=for-the-badge&logo=json&logoColor=38BDF8" />
+</p>
 
-### Ferramentas
+### Automação, OCR e imagem
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,windows" />
+<p>
+  <img src="https://img.shields.io/badge/Selenium-020617?style=for-the-badge&logo=selenium&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Pillow-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/PaddleOCR-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+</p>
 
-### Estudando também
+### IA, APIs e Machine Learning
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,mysql,figma" />
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA%20API-020617?style=for-the-badge&logo=nvidia&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/NLP-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/APIs-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+</p>
+
+### Web e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/PyCharm-020617?style=for-the-badge&logo=pycharm&logoColor=38BDF8" />
+</p>
 
 </div>
+
+---
+
+## Estudos e evolução
+
+Atualmente estou aprofundando meus estudos em áreas ligadas ao ecossistema Python e aplicações práticas com IA.
+
+```txt
+Python aplicado a projetos reais
+Automação de tarefas
+Integração com APIs
+OCR e processamento de imagens
+Manipulação de arquivos e JSON
+Cache e otimização de pipelines
+Análise de dados com Python
+Machine Learning
+NLP e tradução automática
+Visão computacional
+Organização de projetos Python
+Boas práticas de código
+```
 
 ---
 
@@ -322,19 +344,19 @@ Ferramentas para diagnóstico e suporte técnico
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Android-0f172a?style=for-the-badge&logo=android&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Logs-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
         <img src="https://img.shields.io/badge/Debug-0f172a?style=for-the-badge" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Estudos em Python</h3>
+      <h3 align="center">Automação com Python</h3>
       <p align="center">
-        Exercícios, scripts e pequenos projetos para evoluir em lógica de programação, automação e manipulação de dados.
+        Scripts e pequenos projetos voltados para automação, organização de arquivos, integração com APIs e produtividade.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/L%C3%B3gica-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
         <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Dados-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
       </p>
     </td>
   </tr>
@@ -351,39 +373,20 @@ Ferramentas para diagnóstico e suporte técnico
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">IA e Dados</h3>
+      <h3 align="center">IA, OCR e Dados</h3>
       <p align="center">
-        Estudos em fundamentos de Data Science, Inteligência Artificial, Machine Learning e aplicações práticas com Python.
+        Estudos em inteligência artificial, OCR, Machine Learning, NLP, análise de dados e aplicações práticas com Python.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Data%20Science-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/OCR-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
         <img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/IA-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Dados-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
       </p>
     </td>
   </tr>
 </table>
 
 </div>
-
----
-
-## Atualmente estudando
-
-```txt
-Python
-Lógica de programação
-Automação com Python
-Análise de dados
-Inteligência Artificial
-Machine Learning
-HTML5 e CSS3
-JavaScript
-Java e Programação Orientada a Objetos
-Banco de Dados
-Android com Kotlin e Jetpack Compose
-Git e GitHub
-```
 
 ---
 
@@ -403,7 +406,6 @@ Centro Universitário ESBAM
 - Fundamentos de Engenharia de Dados - Data Science Academy
 - Power BI para Business Intelligence e Data Science - Data Science Academy
 - Introdução à Cibersegurança - Cisco Networking Academy
-- Android com Kotlin e Jetpack Compose - FIAP / Eu Capacito
 
 ---
 
@@ -436,11 +438,11 @@ Tenho interesse principalmente em:
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Backend-020617?style=for-the-badge&logo=serverless&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/OCR-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/IA%20Aplicada-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Web-020617?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Android-020617?style=for-the-badge&logo=android&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/APIs-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Dados-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
 
 </div>
 
@@ -461,3 +463,4 @@ Tenho interesse principalmente em:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0f172a,100:020617&height=120&section=footer" />
+````
