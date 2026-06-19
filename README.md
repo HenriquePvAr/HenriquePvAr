@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=220&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20Web%20%7C%20ADS&descAlignY=55&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=210&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20Web&descAlignY=55&descSize=17" />
 
 <p>
   <a href="mailto:henriquepaiva128@gmail.com">
@@ -14,13 +14,25 @@
   </a>
 </p>
 
-<h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
-
-<p>
-  Desenvolvedor em formação com foco em <strong>Python</strong>, automação, inteligência artificial, interfaces e aplicações web.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Python%2C+automa%C3%A7%C3%A3o+e+IA;Desenvolvimento+Web+e+interfaces;Criando+projetos+reais+e+evoluindo+todos+os+dias" alt="Typing SVG" />
 
 </div>
+
+<br>
+
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+## Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base como desenvolvedor com foco principal em **Python**, automação, inteligência artificial e desenvolvimento web.
+
+Atualmente também atuo com **suporte técnico ao usuário**, realizando atendimento, diagnóstico de problemas, apoio a sistemas internos e colaboração com equipe técnica.
+
+Meu objetivo é evoluir como desenvolvedor, criar projetos reais e conquistar uma oportunidade de **estágio** ou **vaga júnior** em desenvolvimento de software.
+
+Gosto de transformar ideias em ferramentas úteis, principalmente quando envolvem automação, APIs, OCR, IA e interfaces bem organizadas.
+
+<br clear="right"/>
 
 ---
 
@@ -39,18 +51,6 @@ Status: construindo projetos reais e evoluindo todos os dias
 
 ---
 
-## Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base como desenvolvedor com foco principal em **Python**.
-
-Tenho interesse em desenvolvimento de software, automação, inteligência artificial, análise de dados, aplicações web e desenvolvimento Android.
-
-Atualmente também atuo com **suporte técnico ao usuário**, lidando com atendimento, diagnóstico de problemas, apoio a sistemas internos e colaboração com equipe técnica.
-
-Meu objetivo é conquistar uma oportunidade de **estágio** ou **vaga júnior**, aplicando meus conhecimentos em projetos reais e evoluindo tecnicamente todos os dias.
-
----
-
 # Projeto em destaque
 
 <div align="center">
@@ -58,7 +58,7 @@ Meu objetivo é conquistar uma oportunidade de **estágio** ou **vaga júnior**,
 ## Tradutor.Ia
 
 <p>
-  Pipeline em Python para detectar textos em imagens, traduzir com IA e gerar uma saída organizada.
+  Pipeline em Python para automatizar tradução de páginas com texto em imagem, usando OCR, IA, cache e processamento em lote.
 </p>
 
 <p>
@@ -75,51 +75,56 @@ Meu objetivo é conquistar uma oportunidade de **estágio** ou **vaga júnior**,
 
 ## Prévia do Tradutor.Ia
 
+<div align="center">
+
+<img width="520" src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663629905361/dRMAWPggRDgCSJvj.png" />
+
+</div>
+
+<br>
+
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Entrada</h3>
+      <h3 align="center">Texto detectado</h3>
     </td>
     <td width="50%">
-      <h3 align="center">Saída traduzida</h3>
+      <h3 align="center">Texto traduzido</h3>
     </td>
   </tr>
   <tr>
     <td>
       <pre>
-Watch out!
-I can't believe you came back.
-This power... it is different.
-Run before the gate closes!
-No way. He survived?
-      </pre>
-    </td>
-    <td>
-      <pre>
-Cuidado!
-Não acredito que você voltou.
-Este poder... é diferente.
-Corra antes que o portão feche!
-Impossível. Ele sobreviveu?
-      </pre>
-    </td>
+My relationship with Hae-In...
+
+...began with just two people
+bumping into each other
+at the train station. </pre> </td> <td> <pre>
+Minha relação com Hae-In...
+
+...começou com apenas duas pessoas
+se esbarrando
+na estação de trem. </pre> </td>
+
   </tr>
 </table>
 
 <div align="center">
 
 ```txt
-Imagem/Página
-    ↓
-OCR detecta os textos
-    ↓
+Imagem da página
+      ↓
+OCR detecta os balões
+      ↓
 Textos são organizados em blocos
-    ↓
+      ↓
 IA traduz em lote
-    ↓
-Resultado é salvo em JSON/TXT
-    ↓
-Texto traduzido pode ser usado na imagem final ou PDF
+      ↓
+Cache evita retrabalho
+      ↓
+Resultado salvo em JSON/TXT
+      ↓
+Base para imagem final ou PDF
 ```
 
 </div>
@@ -137,21 +142,30 @@ flowchart LR
     E --> F[Saída final]
 ```
 
-### Objetivo do projeto
-
-O **Tradutor.Ia** nasceu como um projeto para automatizar partes do processo de tradução de páginas com texto em imagem.
-
-A ideia é transformar um fluxo manual em um pipeline mais rápido e organizado, usando Python, OCR, processamento de dados e tradução com IA.
-
-### Funcionalidades em desenvolvimento
+### O que esse projeto trabalha
 
 * Download automatizado de páginas
-* Detecção de textos em imagens com OCR
-* Organização dos textos detectados
-* Tradução em lote para reduzir chamadas de API
-* Cache para evitar retraduzir o mesmo conteúdo
+* Detecção de texto em imagens
+* OCR com organização por balões
+* Tradução em lote usando IA
+* Cache para evitar retraduzir conteúdo repetido
 * Exportação de resultados em JSON/TXT
-* Base para substituir texto em imagens ou gerar PDF
+* Base para geração de imagem final ou PDF
+
+### Por que esse projeto é importante
+
+O **Tradutor.Ia** é meu projeto principal porque junta várias áreas que estou estudando:
+
+```txt
+Python
+OCR
+Automação
+APIs
+Inteligência Artificial
+Processamento de imagens
+Organização de dados
+Pipeline de software
+```
 
 ---
 
