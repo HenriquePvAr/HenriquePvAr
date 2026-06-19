@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+para+automa%C3%A7%C3%A3o%2C+IA+e+OCR;Pipelines%2C+APIs+e+processamento+de+imagens;Criando+projetos+reais+e+evoluindo+todos+os+dias" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Python+%7C+Automa%C3%A7%C3%A3o+%7C+OCR+%7C+IA;Criando+pipelines+com+APIs%2C+cache+e+dados;Transformando+ideias+em+ferramentas+com+Python;Evoluindo+um+commit+de+cada+vez" alt="Typing SVG" />
 
 </div>
 
@@ -31,9 +31,9 @@ Tenho interesse em automação, inteligência artificial, OCR, processamento de 
 
 Atualmente também atuo com **suporte técnico ao usuário**, realizando atendimento, diagnóstico de problemas, apoio a sistemas internos e colaboração com equipe técnica.
 
-Meu objetivo é evoluir como desenvolvedor, criar projetos reais e conquistar uma oportunidade de **estágio** ou **vaga júnior** em desenvolvimento de software.
+Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e conquistar uma oportunidade de **estágio** ou **vaga júnior** em desenvolvimento de software.
 
-Gosto de transformar ideias em ferramentas úteis, principalmente quando envolvem automação, APIs, OCR, IA, cache, processamento de dados e pipelines bem organizados.
+Gosto de transformar ideias em ferramentas práticas, principalmente quando envolvem automação, APIs, OCR, IA, cache, processamento de dados e pipelines bem organizados.
 
 <br clear="right"/>
 
@@ -41,14 +41,7 @@ Gosto de transformar ideias em ferramentas úteis, principalmente quando envolve
 
 <div align="center">
 
-```txt
-$ python profile.py
-
-Carregando perfil...
-Foco principal: Python
-Áreas: Automação, IA, OCR, APIs, Dados e Web
-Status: construindo projetos reais e evoluindo todos os dias
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=600&color=38BDF8&background=02061700&vCenter=true&multiline=true&repeat=true&width=760&height=135&lines=%24+python+profile.py;Inicializando+ambiente+Python...;Carregando+automa%C3%A7%C3%B5es%2C+OCR+e+IA...;Conectando+APIs%2C+dados+e+pipelines...;Status%3A+evoluindo+um+commit+de+cada+vez" alt="Terminal animado" />
 
 </div>
 
@@ -315,7 +308,7 @@ Pipeline de software
 Atualmente estou aprofundando meus estudos em áreas ligadas ao ecossistema Python e aplicações práticas com IA.
 
 ```txt
-Python aplicado a projetos reais
+Python aplicado a projetos práticos
 Automação de tarefas
 Integração com APIs
 OCR e processamento de imagens
@@ -431,7 +424,7 @@ Centro Universitário ESBAM
 
 ## Objetivo
 
-Busco crescer como desenvolvedor, aplicar meus conhecimentos em projetos reais e evoluir tecnicamente todos os dias.
+Busco crescer como desenvolvedor, aplicar meus conhecimentos em projetos úteis e evoluir tecnicamente todos os dias.
 
 Tenho interesse principalmente em:
 
