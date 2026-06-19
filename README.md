@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=210&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20Web&descAlignY=55&descSize=17" />
