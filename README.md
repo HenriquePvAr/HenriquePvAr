@@ -75,21 +75,48 @@ Status: construindo projetos reais e evoluindo todos os dias
 
 ## Prévia do Tradutor.Ia
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Imagem original</h3>
+      <img width="330" src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663629905361/dRMAWPggRDgCSJvj.png" />
+    </td>
+    <td width="50%" align="center">
+      <h3>Tradução gerada</h3>
+      <br>
+      <strong>Balão 1</strong>
+      <br><br>
+      <pre>
+╭────────────────────────────╮
+│   MINHA RELAÇÃO COM        │
+│        HAE-IN...           │
+╰────────────────────────────╯
+      </pre>
+      <br>
+      <strong>Balão 2</strong>
+      <br><br>
+      <pre>
+╭────────────────────────────╮
+│ ...COMEÇOU COM APENAS      │
+│ DUAS PESSOAS SE ESBARRANDO │
+│ NA ESTAÇÃO DE TREM.        │
+╰────────────────────────────╯
+      </pre>
+    </td>
+  </tr>
+</table>
 
-<img width="520" src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663629905361/dRMAWPggRDgCSJvj.png" />
+---
 
-</div>
-
-<br>
+## Exemplo de tradução
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Texto detectado</h3>
+      <h3 align="center">Texto detectado pelo OCR</h3>
     </td>
     <td width="50%">
-      <h3 align="center">Texto traduzido</h3>
+      <h3 align="center">Resultado em PT-BR</h3>
     </td>
   </tr>
   <tr>
@@ -108,6 +135,10 @@ na estação de trem. </pre> </td>
 
   </tr>
 </table>
+
+---
+
+## Fluxo do Tradutor.Ia
 
 <div align="center">
 
@@ -128,10 +159,6 @@ Base para imagem final ou PDF
 ```
 
 </div>
-
----
-
-## Como o Tradutor.Ia funciona
 
 ```mermaid
 flowchart LR
