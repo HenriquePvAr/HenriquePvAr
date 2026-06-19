@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=210&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20Web&descAlignY=55&descSize=17" />
@@ -84,7 +83,7 @@ Status: construindo projetos reais e evoluindo todos os dias
 
 <div align="center">
 
-<img width="850" src="./assets/tradutor-preview-comparacao.png" alt="Prévia do Tradutor.Ia mostrando comparação entre imagem original e tradução gerada pelo pipeline" />
+<img width="850" src="./assets/tradutor-preview-comparacao.png.png" alt="Prévia do Tradutor.Ia mostrando comparação entre imagem original e tradução gerada pelo pipeline" />
 
 </div>
 
@@ -94,10 +93,49 @@ Status: construindo projetos reais e evoluindo todos os dias
 
 <div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="16%">
+      <strong>01</strong><br><br>
+      <strong>Entrada</strong><br>
+      <sub>Página local ou download automático</sub>
+    </td>
+    <td align="center" width="16%">
+      <strong>02</strong><br><br>
+      <strong>OCR</strong><br>
+      <sub>Detecção dos textos nos balões</sub>
+    </td>
+    <td align="center" width="16%">
+      <strong>03</strong><br><br>
+      <strong>Organização</strong><br>
+      <sub>Textos ordenados corretamente</sub>
+    </td>
+    <td align="center" width="16%">
+      <strong>04</strong><br><br>
+      <strong>Tradução em lote</strong><br>
+      <sub>Blocos enviados para a IA</sub>
+    </td>
+    <td align="center" width="16%">
+      <strong>05</strong><br><br>
+      <strong>Cache + JSON</strong><br>
+      <sub>Evita retrabalho e salva resultados</sub>
+    </td>
+    <td align="center" width="16%">
+      <strong>06</strong><br><br>
+      <strong>Saída final</strong><br>
+      <sub>Base para imagem traduzida ou PDF</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ```txt
 Página / imagem
-      ↓
-Download ou entrada local
       ↓
 OCR detecta os textos nos balões
       ↓
@@ -113,15 +151,6 @@ Base para edição final, imagem traduzida ou PDF
 ```
 
 </div>
-
-```mermaid
-flowchart LR
-    A[Entrada da página] --> B[OCR dos balões]
-    B --> C[Organização dos textos]
-    C --> D[Tradução em lote com IA]
-    D --> E[Cache e JSON]
-    E --> F[Saída final]
-```
 
 ---
 
@@ -432,4 +461,3 @@ Tenho interesse principalmente em:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0f172a,100:020617&height=120&section=footer" />
-````
