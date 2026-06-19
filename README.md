@@ -1,16 +1,19 @@
-
 <div align="center">
 
 # Henrique Paiva Araújo
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Python+%7C+Automação+%7C+IA+%7C+Web;Construindo+projetos+reais+e+evoluindo+todos+os+dias" alt="Typing SVG" />
 
 <p>
-  Desenvolvedor em formação com interesse em desenvolvimento de software, interfaces, automação, IA e aplicações web/mobile.
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HenriquePvAr&label=Visualizações&style=for-the-badge&color=0ea5e9" />
+  <a href="mailto:henriquepaiva128@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  </a>
+  <a href="https://github.com/HenriquePvAr">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8" />
+  </a>
+  <a href="https://game-deals-alpha.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+  </a>
 </p>
 
 </div>
@@ -19,82 +22,91 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário ESBAM, atualmente no 3º período.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base como desenvolvedor com foco em **Python**, automação, inteligência artificial e desenvolvimento web.
 
-Tenho interesse em desenvolvimento de software, interfaces de usuário, inteligência artificial, automação, backend e desenvolvimento Android.
+Atualmente atuo com **suporte técnico ao usuário**, lidando com atendimento, diagnóstico de problemas, apoio a sistemas internos e colaboração com equipe técnica.
 
-Atualmente também atuo com **suporte técnico ao usuário**, realizando atendimento, diagnóstico de problemas, suporte a sistemas internos e colaboração com equipe técnica.
-
-Meu objetivo é evoluir como desenvolvedor, criando projetos reais, melhorando minha lógica, organização de código e boas práticas de desenvolvimento.
+Meu objetivo é evoluir como desenvolvedor e conquistar uma oportunidade de **estágio** ou **vaga júnior**, principalmente em áreas envolvendo Python, backend, automação, IA, web ou desenvolvimento de software.
 
 ---
 
-## Áreas de interesse
+## Foco principal
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
+      <br />
+      <strong>Python</strong>
+      <br />
+      <sub>Scripts, lógica, automação e dados</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
+      <br />
+      <strong>Web</strong>
+      <br />
+      <sub>HTML, CSS e JavaScript</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" />
+      <br />
+      <strong>Java</strong>
+      <br />
+      <sub>POO e base para Android</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" />
+      <br />
+      <strong>Android</strong>
+      <br />
+      <sub>Kotlin e Jetpack Compose</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+
+### Ferramentas e plataformas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,windows" />
+
+### Estudando também
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,mysql,figma" />
+
+</div>
+
+---
+
+## Python
+
+Atualmente estou usando Python para fortalecer minha lógica de programação e criar projetos mais úteis.
+
+Tenho interesse em aplicar Python em:
 
 ```txt
-Desenvolvimento Web
-Interface de Usuário
-Python e Automação
-Java e Programação Orientada a Objetos
+Automação de tarefas
+Análise de dados
+Scripts úteis
+Integração com APIs
 Inteligência Artificial
 Machine Learning
-Desenvolvimento Android
-Banco de Dados
-Suporte Técnico e Sistemas
-````
-
----
-
-## Tecnologias e ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Android_Studio-111827?style=for-the-badge&logo=androidstudio" />
-  <img src="https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-111827?style=for-the-badge&logo=jetpackcompose" />
-  <img src="https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows" />
-</p>
-
----
-
-## O que estou estudando
-
-### Desenvolvimento Web e Interface
-
-* HTML5 e CSS3
-* Layouts responsivos
-* Usabilidade e experiência do usuário
-* Organização visual de interfaces
-* Boas práticas de estruturação de páginas
-
-### Python, Dados e IA
-
-* Lógica de programação
-* Manipulação de dados
-* Fundamentos de Data Science
-* Fundamentos de Inteligência Artificial
-* Machine Learning
-* Automação com Python
-
-### Java e Android
-
-* Programação Orientada a Objetos
-* Classes, objetos, métodos e encapsulamento
-* Fundamentos de Android Studio
-* Kotlin e Jetpack Compose
-* Interfaces mobile
+OCR e processamento de imagens
+Ferramentas para diagnóstico e suporte
+```
 
 ---
 
@@ -105,34 +117,53 @@ Suporte Técnico e Sistemas
 Ferramenta em Python para analisar logs Android e identificar possíveis problemas como crashes, ANRs e uso de memória.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-0ea5e9?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debug-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Android-0f172a?style=for-the-badge&logo=android&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Debug-0f172a?style=for-the-badge&logoColor=38BDF8" />
 </p>
 
 ---
 
 ### Estudos em Python
 
-Projetos e exercícios voltados para lógica de programação, automação, manipulação de dados e evolução na linguagem Python.
+Repositórios e exercícios voltados para lógica de programação, estruturas básicas, manipulação de dados e evolução na linguagem.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lógica-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automação-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lógica-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Automação-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Dados-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
 </p>
 
 ---
 
 ### Desenvolvimento Web
 
-Estudos e projetos com HTML, CSS e JavaScript, com foco em interfaces responsivas, organização visual e experiência do usuário.
+Estudos e projetos com HTML, CSS e JavaScript, com foco em estruturação de páginas, responsividade e interface de usuário.
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-0ea5e9?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0ea5e9?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0ea5e9?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
 </p>
+
+---
+
+## Atualmente estudando
+
+```txt
+Python
+Lógica de programação
+Automação
+HTML5 e CSS3
+JavaScript
+Java e Programação Orientada a Objetos
+Banco de Dados
+Data Science
+Inteligência Artificial
+Machine Learning
+Android com Kotlin e Jetpack Compose
+Git e GitHub
+```
 
 ---
 
@@ -144,49 +175,64 @@ Centro Universitário ESBAM
 
 ---
 
-## Cursos e certificações
+## Certificações e cursos
 
 * HTML5 e CSS3 - Curso em Vídeo
 * Python para Análise de Dados, Data Science e Machine Learning - Data Science Academy
-* Power BI para Business Intelligence e Data Science - Data Science Academy
 * Fundamentos de Data Science e Inteligência Artificial - Data Science Academy
 * Fundamentos de Engenharia de Dados - Data Science Academy
+* Power BI para Business Intelligence e Data Science - Data Science Academy
 * Introdução à Cibersegurança - Cisco Networking Academy
 * Android com Kotlin e Jetpack Compose - FIAP / Eu Capacito
 
 ---
 
-## Estatísticas do GitHub
+## Estatísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriquePvAr&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriquePvAr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePvAr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<div align="center">
 
-## Objetivo atual
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HenriquePvAr&theme=tokyonight&hide_border=true" />
 
-Busco evoluir como desenvolvedor e conquistar uma oportunidade de estágio ou vaga júnior em desenvolvimento de software.
-
-Tenho interesse em atuar com desenvolvimento web, backend, automação, interface de usuário, inteligência artificial ou desenvolvimento Android.
+</div>
 
 ---
 
-## Contato
+## Objetivo
+
+Estou em busca de oportunidades para crescer como desenvolvedor, aplicar meus conhecimentos em projetos reais e evoluir tecnicamente todos os dias.
+
+Tenho interesse principalmente em:
+
+```txt
+Python
+Backend
+Automação
+IA aplicada
+Desenvolvimento Web
+Desenvolvimento Android
+Suporte técnico voltado a sistemas
+```
+
+---
+
+<div align="center">
+
+### Vamos construir algo?
 
 <p>
   <a href="mailto:henriquepaiva128@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/HenriquePvAr">
-    <img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://game-deals-alpha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Entrar_em_contato-38BDF8?style=for-the-badge&logo=gmail&logoColor=0f172a" />
   </a>
 </p>
-```
+
+<img src="https://komarev.com/ghpvc/?username=HenriquePvAr&label=Visualizações+no+perfil&style=flat-square&color=38BDF8" />
+
+</div>
