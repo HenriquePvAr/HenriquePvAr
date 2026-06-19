@@ -47,6 +47,12 @@ Gosto de transformar ideias em ferramentas práticas, principalmente quando envo
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:38BDF8&height=130&section=header&text=Python%20Developer%20in%20Progress&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
+
+</div>
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:38BDF8&height=2&section=footer" />
 
 </div>
@@ -314,6 +320,39 @@ O **Tradutor.Ia** é meu projeto principal porque reúne várias áreas que esto
 
 ---
 
+## Ambiente de desenvolvimento
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>Editor</strong><br>
+      <sub>VS Code e PyCharm</sub><br><br>
+      <img src="https://img.shields.io/badge/Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Linguagem principal</strong><br>
+      <sub>Python</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Foco atual</strong><br>
+      <sub>OCR, IA e automação</sub><br><br>
+      <img src="https://img.shields.io/badge/OCR%20%2B%20IA-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Organização</strong><br>
+      <sub>Projetos, cache e pipelines</sub><br><br>
+      <img src="https://img.shields.io/badge/Pipelines-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## Estudos e evolução
 
 Atualmente estou aprofundando meus estudos em áreas ligadas ao ecossistema Python e aplicações práticas com IA.
@@ -334,6 +373,32 @@ Atualmente estou aprofundando meus estudos em áreas ligadas ao ecossistema Pyth
     <td align="center" width="25%"><strong>Boas práticas</strong><br><sub>organização e evolução</sub></td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## Repositórios em destaque
+
+<div align="center">
+
+<a href="https://github.com/HenriquePvAr/Tradutor.Ia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=Tradutor.Ia&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/HenriquePvAr/analisador-logs-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=analisador-logs-android&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## Conquistas e evolução
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HenriquePvAr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
 
 </div>
 
