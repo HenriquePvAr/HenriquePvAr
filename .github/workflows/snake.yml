@@ -12,18 +12,19 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate snake animation
+      - name: Generate custom snake
         uses: Platane/snk@v3
         with:
           github_user_name: HenriquePvAr
 
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#0284C7&color_dots=#E2E8F0,#BAE6FD,#7DD3FC,#38BDF8,#0284C7
+            dist/github-snake-dark.svg?color_snake=#38BDF8&color_dots=#0F172A,#164E63,#0E7490,#06B6D4,#67E8F9
 
-      - name: Publish snake animation
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
