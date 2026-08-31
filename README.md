@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=220&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20OCR%20%7C%20Web&descAlignY=55&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38BDF8&height=220&section=header&text=Henrique%20Paiva%20Ara%C3%BAjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20Aplicada%20%7C%20OCR&descAlignY=55&descSize=17" />
+
+### Desenvolvedor em formação focado em Python, automação e inteligência artificial aplicada.
 
 <p>
   <a href="mailto:henriquepaiva128@gmail.com">
@@ -14,426 +16,256 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=820&lines=Python+%7C+Automa%C3%A7%C3%A3o+%7C+OCR+%7C+IA;Criando+pipelines+com+APIs%2C+cache+e+dados;Transformando+ideias+em+ferramentas+com+Python;Evoluindo+um+commit+de+cada+vez" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-## Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base como desenvolvedor com foco principal em **Python**.
-
-Tenho interesse em automação, inteligência artificial, OCR, processamento de imagens, APIs, dados e desenvolvimento web.
-
-Atualmente também atuo com **suporte técnico ao usuário**, realizando atendimento, diagnóstico de problemas, apoio a sistemas internos e colaboração com equipe técnica.
-
-Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e conquistar uma oportunidade de **estágio** ou **vaga júnior** em desenvolvimento de software.
-
-Gosto de transformar ideias em ferramentas práticas, principalmente quando envolvem automação, APIs, OCR, IA, cache, processamento de dados e pipelines bem organizados.
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1700&pause=500&color=38BDF8&background=02061700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=155&lines=%24+python+profile.py;Inicializando+ambiente+Python...;Carregando+OCR%2C+IA+e+automa%C3%A7%C3%B5es...;Organizando+dados%2C+APIs+e+pipelines...;Compilando+ideias+em+ferramentas+%C3%BAteis...;Status%3A+evoluindo+um+commit+de+cada+vez" alt="Terminal animado" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:38BDF8&height=130&section=header&text=Python%20Developer%20in%20Progress&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+com+Python;Automa%C3%A7%C3%A3o+%7C+OCR+%7C+APIs+%7C+IA+Aplicada;Aprendendo%2C+construindo+e+evoluindo+todos+os+dias" />
 
 </div>
 
 ---
 
-# Projeto em destaque
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e venho desenvolvendo minha experiência por meio de projetos práticos, com foco principalmente em **Python, automação e inteligência artificial aplicada**.
+
+Tenho interesse em desenvolver soluções que integrem **APIs, OCR, processamento de imagens, dados e automação de processos**, buscando transformar problemas reais em ferramentas úteis e organizadas.
+
+Atualmente também atuo com **suporte técnico ao usuário**, realizando atendimento, diagnóstico de problemas, apoio a sistemas internos e colaboração com equipes técnicas.
+
+Meu objetivo é continuar evoluindo como desenvolvedor e conquistar oportunidades em **desenvolvimento de software**, especialmente em projetos envolvendo Python, automação, dados e IA.
+
+---
+
+## 🚀 Projeto em destaque — Tradutor.Ia
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2300&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Tradutor.Ia;OCR+%2B+IA+%2B+Python;Pipeline+de+tradu%C3%A7%C3%A3o+em+imagens" alt="Tradutor.Ia animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Tradutor.Ia;OCR+%2B+IA+%2B+Automa%C3%A7%C3%A3o;Pipeline+de+tradu%C3%A7%C3%A3o+de+imagens" />
 
 <p>
-  Pipeline em Python para automatizar tradução de páginas com texto em imagem, usando OCR, IA, cache e processamento em lote.
+Pipeline desenvolvido em Python para automatizar o processo de tradução de páginas com texto incorporado em imagens.
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/OCR-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/OCR-020617?style=for-the-badge&logo=googlelens&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/IA-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-020617?style=for-the-badge&logo=selenium&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/NVIDIA%20API-020617?style=for-the-badge&logo=nvidia&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Selenium-020617?style=for-the-badge&logo=selenium&logoColor=38BDF8" />
 </p>
 
-<p>
-  <a href="https://github.com/HenriquePvAr/Tradutor.Ia">
-    <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-38BDF8?style=for-the-badge&logo=github&logoColor=020617" />
-  </a>
-</p>
-
-</div>
-
----
-
-## Prévia visual
-
-<div align="center">
-
-<img width="850" src="./assets/tradutor-preview-comparacao.png.png" alt="Prévia do Tradutor.Ia mostrando comparação entre imagem original e tradução gerada pelo pipeline" />
-
-</div>
-
----
-
-## Como funciona
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="16%">
-      <strong>01</strong><br><br>
-      <strong>Entrada</strong><br>
-      <sub>Página local ou download automático</sub>
-    </td>
-    <td align="center" width="16%">
-      <strong>02</strong><br><br>
-      <strong>OCR</strong><br>
-      <sub>Detecção dos textos nos balões</sub>
-    </td>
-    <td align="center" width="16%">
-      <strong>03</strong><br><br>
-      <strong>Organização</strong><br>
-      <sub>Textos ordenados para tradução</sub>
-    </td>
-    <td align="center" width="16%">
-      <strong>04</strong><br><br>
-      <strong>Tradução</strong><br>
-      <sub>Blocos enviados em lote para IA</sub>
-    </td>
-    <td align="center" width="16%">
-      <strong>05</strong><br><br>
-      <strong>Cache</strong><br>
-      <sub>Evita chamadas repetidas</sub>
-    </td>
-    <td align="center" width="16%">
-      <strong>06</strong><br><br>
-      <strong>Saída</strong><br>
-      <sub>JSON, TXT, imagem ou PDF</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/HenriquePvAr/Tradutor.Ia">
+  <img src="https://img.shields.io/badge/Explorar%20projeto-38BDF8?style=for-the-badge&logo=github&logoColor=020617" />
+</a>
 
 </div>
 
 <br>
 
+### Visão geral
+
+O **Tradutor.Ia** reúne diferentes etapas de processamento em um único fluxo automatizado:
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1500&pause=400&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=145&lines=Imagem+%2F+p%C3%A1gina+recebida;OCR+detecta+os+textos+nos+bal%C3%B5es;Textos+s%C3%A3o+organizados+na+ordem+correta;IA+traduz+os+blocos+em+lote;Cache+evita+retrabalho;Resultado+salvo+em+JSON%2FTXT" alt="Pipeline animado" />
+|        01        |       02       |        03        |        04        |        05        |            06            |
+| :--------------: | :------------: | :--------------: | :--------------: | :--------------: | :----------------------: |
+|    **Entrada**   |     **OCR**    |  **Organização** |   **Tradução**   |     **Cache**    |         **Saída**        |
+| Imagem ou página | Detecta textos | Ordena conteúdos | Processa em lote | Evita retrabalho | JSON, TXT, imagem ou PDF |
 
 </div>
 
----
+### Principais recursos
 
-## Exemplo de tradução
+* 🔎 Detecção e extração de textos em imagens com OCR
+* 🧠 Tradução de blocos utilizando inteligência artificial
+* ⚡ Processamento em lote para reduzir chamadas desnecessárias
+* 💾 Sistema de cache para evitar traduções repetidas
+* 🗂️ Organização estruturada dos resultados
+* 📄 Geração de resultados em JSON, TXT, imagem ou PDF
+* 🧩 Arquitetura modular preparada para evolução
+
+### Prévia
+
+<div align="center">
+
+<img width="850" src="./assets/tradutor-preview-comparacao.png.png" alt="Comparação entre imagem original e resultado processado pelo Tradutor.Ia" />
+
+</div>
+
+### Exemplo
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Texto detectado pelo OCR</h3>
-    </td>
-    <td width="50%">
-      <h3 align="center">Resultado em PT-BR</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <pre>
+<tr>
+<td width="50%" valign="top">
+
+#### OCR
+
+```text
 My relationship with Hae-In...
 
 ...started from just two people
 running into each other
 at the train station.
-      </pre>
-    </td>
-    <td>
-      <pre>
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### Resultado em PT-BR
+
+```text
 Minha relação com Hae-In...
 
 ...começou com apenas duas pessoas
 se esbarrando
 na estação de trem.
-      </pre>
-    </td>
-  </tr>
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Recursos do Tradutor.Ia
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>OCR organizado</strong><br>
-      <sub>Identificação de textos em imagens</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Tradução em lote</strong><br>
-      <sub>Menos chamadas e melhor uso da API</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Cache inteligente</strong><br>
-      <sub>Evita retrabalho em textos repetidos</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <strong>JSON/TXT</strong><br>
-      <sub>Resultados salvos de forma organizada</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Imagem/PDF</strong><br>
-      <sub>Base para saída final editada</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Pipeline modular</strong><br>
-      <sub>Estrutura preparada para melhorias</sub>
-    </td>
-  </tr>
-</table>
+### Desenvolvimento
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
----
+### Dados e processamento
 
-## Stack principal
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
-      <br>
-      <strong>Python</strong>
-      <br>
-      <sub>Scripts, automação e pipelines</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" />
-      <br>
-      <strong>OCR & Imagem</strong>
-      <br>
-      <sub>Texto em imagem e visão computacional</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
-      <br>
-      <strong>Dados</strong>
-      <br>
-      <sub>JSON, estruturas e processamento</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
-      <br>
-      <strong>Web</strong>
-      <br>
-      <sub>HTML, CSS e JavaScript</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## Tecnologias e ferramentas
-
-<div align="center">
-
-### Python, dados e arquivos
+<img src="https://skillicons.dev/icons?i=opencv" />
 
 <p>
-  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/JSON-020617?style=for-the-badge&logo=json&logoColor=38BDF8" />
-</p>
-
-### OCR, automação e imagem
-
-<p>
-  <img src="https://img.shields.io/badge/Selenium-020617?style=for-the-badge&logo=selenium&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Pillow-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/PaddleOCR-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
 </p>
 
-### IA, APIs e Machine Learning
+### Automação, IA e APIs
 
 <p>
+  <img src="https://img.shields.io/badge/Selenium-020617?style=for-the-badge&logo=selenium&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/APIs-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/NVIDIA%20API-020617?style=for-the-badge&logo=nvidia&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/NLP-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/APIs-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
 </p>
 
-### Web e ambiente
+### Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/PyCharm-020617?style=for-the-badge&logo=pycharm&logoColor=38BDF8" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 
 </div>
 
 ---
 
-## Estudos em andamento
+## 📚 Atualmente estudando
+
+Meu aprendizado está concentrado principalmente em:
+
+<div align="center">
+
+| Desenvolvimento     | Automação            | Inteligência Artificial | Dados                  |
+| ------------------- | -------------------- | ----------------------- | ---------------------- |
+| Python aplicado     | Automação de tarefas | Machine Learning        | Processamento de dados |
+| APIs                | Selenium             | NLP                     | JSON                   |
+| Boas práticas       | Pipelines            | OCR                     | Análise de dados       |
+| Desenvolvimento Web | Integrações          | Visão Computacional     | Estruturação de dados  |
+
+</div>
+
+---
+
+## 📂 Projetos
 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="25%"><strong>Python aplicado</strong><br><sub>projetos práticos</sub></td>
-    <td align="center" width="25%"><strong>Automação</strong><br><sub>tarefas e scripts</sub></td>
-    <td align="center" width="25%"><strong>APIs</strong><br><sub>integrações e dados</sub></td>
-    <td align="center" width="25%"><strong>OCR</strong><br><sub>texto em imagem</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><strong>Machine Learning</strong><br><sub>modelos e conceitos</sub></td>
-    <td align="center" width="25%"><strong>NLP</strong><br><sub>tradução e linguagem</sub></td>
-    <td align="center" width="25%"><strong>Visão Computacional</strong><br><sub>imagem e processamento</sub></td>
-    <td align="center" width="25%"><strong>Boas práticas</strong><br><sub>organização e evolução</sub></td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/HenriquePvAr/Tradutor.Ia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=Tradutor.Ia&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/HenriquePvAr/analisador-logs-android">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=analisador-logs-android&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+</tr>
 </table>
 
 </div>
 
 ---
 
-## Repositórios em destaque
+## 🎓 Formação
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/HenriquePvAr/Tradutor.Ia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=Tradutor.Ia&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/HenriquePvAr/analisador-logs-android">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriquePvAr&repo=analisador-logs-android&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+**Análise e Desenvolvimento de Sistemas**
+Centro Universitário ESBAM
+`2025 — 2027`
 
 ---
 
-## Formação
+## 📜 Cursos e certificações
 
-**Análise e Desenvolvimento de Sistemas**  
-Centro Universitário ESBAM  
-2025 - 2027
-
----
-
-## Cursos e certificações
-
-- HTML5 e CSS3 - Curso em Vídeo
-- Python para Análise de Dados, Data Science e Machine Learning - Data Science Academy
-- Fundamentos de Data Science e Inteligência Artificial - Data Science Academy
-- Fundamentos de Engenharia de Dados - Data Science Academy
-- Power BI para Business Intelligence e Data Science - Data Science Academy
-- Introdução à Cibersegurança - Cisco Networking Academy
+* **Python para Análise de Dados, Data Science e Machine Learning** — Data Science Academy
+* **Fundamentos de Data Science e Inteligência Artificial** — Data Science Academy
+* **Fundamentos de Engenharia de Dados** — Data Science Academy
+* **Power BI para Business Intelligence e Data Science** — Data Science Academy
+* **HTML5 e CSS3** — Curso em Vídeo
+* **Introdução à Cibersegurança** — Cisco Networking Academy
 
 ---
 
-## Estatísticas do GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriquePvAr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriquePvAr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePvAr&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePvAr&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriquePvAr&theme=tokyonight&hide_border=true" />
 
-</div>
+<br><br>
 
----
-
-## Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriquePvAr&bg_color=020617&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HenriquePvAr&bg_color=020617&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:38BDF8&height=125&section=header&text=Python%20%7C%20OCR%20%7C%20IA%20%7C%20Automa%C3%A7%C3%A3o&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-
-</div>
-
----
-
-## Objetivo
-
-Busco crescer como desenvolvedor, aplicar meus conhecimentos em projetos úteis e evoluir tecnicamente todos os dias.
-
-Tenho interesse principalmente em:
+## 🤝 Contato
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/OCR-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/IA%20Aplicada-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/APIs-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Dados-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+Estou sempre aberto a trocar experiências, conhecer novos projetos e oportunidades na área de tecnologia.
 
-</div>
+<br>
 
----
+<a href="mailto:henriquepaiva128@gmail.com">
+<img src="https://img.shields.io/badge/Entrar%20em%20contato-38BDF8?style=for-the-badge&logo=gmail&logoColor=020617" />
+</a>
 
-<div align="center">
+<a href="https://github.com/HenriquePvAr">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
 
-## Contato
+<br><br>
 
-<p>
-  <a href="mailto:henriquepaiva128@gmail.com">
-    <img src="https://img.shields.io/badge/Entrar%20em%20contato-38BDF8?style=for-the-badge&logo=gmail&logoColor=020617" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=HenriquePvAr&label=Visualiza%C3%A7%C3%B5es%20no%20perfil&style=flat-square&color=38BDF8" />
+<img src="https://komarev.com/ghpvc/?username=HenriquePvAr&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&style=flat-square&color=38BDF8" />
 
 </div>
 
