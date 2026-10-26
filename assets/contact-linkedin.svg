@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="48" viewBox="0 0 176 48" fill="none">
+<title>LinkedIn — Henrique Paiva</title>
+<rect x=".5" y=".5" width="175" height="47" rx="10" fill="#0A66C2" stroke="#4093E6"/>
+<rect x="18" y="13" width="22" height="22" rx="3" fill="white"/>
+<circle cx="23.5" cy="19" r="1.6" fill="#0A66C2"/>
+<path d="M22 22H25V31H22ZM27 22H30V23.2C30.7 22.2 31.5 21.8 32.8 21.8C35.1 21.8 36 23.2 36 25.7V31H33V26C33 24.7 32.7 24 31.6 24C30.5 24 30 24.8 30 26.2V31H27Z" fill="#0A66C2"/>
+<text x="53" y="30" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">LinkedIn</text>
+<path d="M148 20H155V27M155 20 146 29" stroke="white" stroke-opacity=".85" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

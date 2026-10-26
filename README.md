@@ -48,18 +48,18 @@ O runtime portátil publicado oferece leitura de projetos e Git. O núcleo de me
 
 [Explorar o Nodaris →](https://github.com/HenriquePvAr/Nodaris) · [Arquitetura de memória](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/architecture/NODARIS_MEMORY_BLUEPRINT.md)
 
-## Por trás do código
-
-Gosto de entender o caminho inteiro: da interface ao processamento, dos dados à decisão. É isso que me leva a trabalhar com automação, visão computacional e ferramentas para IA.
-
-- **Investigar a causa.** Entender onde e por que algo falhou antes de escolher a correção.
-- **Tornar o resultado verificável.** Registrar testes, decisões e limitações para poder avaliar o que foi construído.
-- **Dar continuidade ao trabalho.** Organizar código e contexto para que a próxima etapa tenha uma base clara.
-
 ---
 
-### Vamos trocar uma ideia?
+<p align="center">
+  <a href="https://tenor.com/view/pusheen-typing-gif-10377624"><img src="https://media1.tenor.com/m/tIJf3wJYY_IAAAAd/pusheen-typing.gif" width="180" alt="Gatinho animado trabalhando no notebook" /></a>
+</p>
 
-Para conversar sobre os projetos, colaborar ou falar de uma oportunidade em desenvolvimento:
+<h2 align="center">Bora construir a próxima ideia?</h2>
 
-**[LinkedIn ↗](https://www.linkedin.com/in/henrique-paiva-14076a367) · [E-mail ↗](mailto:henriquepaiva128@gmail.com)**
+<p align="center">Curte automação, IA aplicada ou tem um projeto em mente?<br>Me chama para conversar sobre código, colaborar ou falar de uma oportunidade.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/henrique-paiva-14076a367"><img src="./assets/contact-linkedin.svg" width="176" height="48" alt="LinkedIn — Henrique Paiva" /></a>
+  &nbsp;
+  <a href="mailto:henriquepaiva128@gmail.com"><img src="./assets/contact-email.svg" width="176" height="48" alt="Enviar e-mail para Henrique Paiva" /></a>
+</p>
