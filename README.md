@@ -12,19 +12,19 @@ Também trabalho com **suporte técnico**. Investigar falhas, entender o que o u
 
 <a href="https://github.com/HenriquePvAr/Tradutor.Ia"><img src="./assets/yomu-architecture.svg" width="100%" alt="Yomu Sekai — aquisição, OCR, tradução, reconstrução e revisão em um pipeline orquestrado" /></a>
 
-### Yomu Sekai · tradução com visão computacional
+### Yomu Sekai · visão computacional, IA e linguagem
 
-Desenvolvo um aplicativo que transforma capítulos ilustrados em versões traduzidas para português. Ele reúne aquisição de páginas, reconhecimento e classificação de texto, tradução contextual, reconstrução da imagem e diagramação das falas — com PDF, imagens e arquivos de revisão como saída.
+Desenvolvo um sistema de tradução de mangás, manhwas e webtoons que combina **visão computacional, inteligência artificial e processamento de linguagem natural (PLN)**. O pipeline localiza e reconhece textos com OCR, segmenta regiões com máscaras e usa inpainting para reconstruir as áreas após a remoção dos caracteres. Depois, traduz as falas, verifica a consistência dos termos e ajusta a tipografia aos balões, buscando preservar a composição artística original.
 
 | Camada | Como funciona |
 | :--- | :--- |
 | **Interface e execução** | A UI grava jobs em uma fila SQLite. Um worker supervisionado executa cada job em um processo próprio e persiste progresso e resultados. |
 | **Pipeline visual e linguístico** | Adapters coletam as páginas; RapidOCR identifica texto; a classificação contextual distingue falas, narração e SFX. A tradução passa por backend autenticado, com o motor remoto no servidor. |
 | **Memória de capítulo** | Um ledger de terminologia e um registro de personagens mantêm nomes e formas canônicas consistentes dentro do capítulo. Cache e artefatos persistidos permitem reutilizar etapas válidas. |
-| **Reconstrução e qualidade** | Máscaras, inpainting e ajuste tipográfico recompõem as páginas. Validações antes e depois da renderização registram evidências e encaminham casos duvidosos para revisão humana. |
+| **Reconstrução e qualidade** | OpenCV, máscaras e inpainting apoiam a reconstrução; a análise geométrica orienta a posição e o tamanho da tradução. Verificações de resíduos de texto e alterações visuais registram evidências e encaminham casos duvidosos para revisão humana. |
 
 **Python · OpenCV · RapidOCR · SQLite**<br>
-Beta técnica em desenvolvimento · memória de terminologia limitada ao capítulo.
+Beta técnica em desenvolvimento. A fidelidade visual da reconstrução em páginas reais ainda está em validação.
 
 [Explorar o Yomu →](https://github.com/HenriquePvAr/Tradutor.Ia) · [Arquitetura e processos](https://github.com/HenriquePvAr/Tradutor.Ia/blob/main/docs/technical/DOCUMENTACAO_TECNICA.md)
 
@@ -62,4 +62,4 @@ Gosto de entender o caminho inteiro: da interface ao processamento, dos dados à
 
 Para conversar sobre os projetos, colaborar ou falar de uma oportunidade em desenvolvimento:
 
-**[henriquepaiva128@gmail.com ↗](mailto:henriquepaiva128@gmail.com)**
+**[LinkedIn ↗](https://www.linkedin.com/in/henrique-paiva-14076a367) · [E-mail ↗](mailto:henriquepaiva128@gmail.com)**
