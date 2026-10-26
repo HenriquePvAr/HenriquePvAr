@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<title>Nodaris — infraestrutura de contexto e memória para IA</title>
+<desc>Gateway MCP e agente local conectam assistentes a projetos autorizados. O núcleo de memória estruturada representa missões, decisões e evidências; sua integração portátil está em desenvolvimento.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#141A2E"/><stop offset=".6" stop-color="#121828"/><stop offset="1" stop-color="#242546"/></linearGradient>
+  <linearGradient id="core" x1="810" y1="80" x2="1000" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#283B54"/><stop offset="1" stop-color="#34305B"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#9EA6FF" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="1198.5" height="358.5" rx="23.25" stroke="#616B9B" stroke-opacity=".6" stroke-width="1.5"/>
+<path d="M610 0H1176Q1200 0 1200 24V336Q1200 360 1176 360H610Z" fill="url(#grid)"/>
+<circle cx="919" cy="177" r="144" stroke="#8A90D8" stroke-opacity=".12"/>
+<circle cx="919" cy="177" r="111" stroke="#8A90D8" stroke-opacity=".12"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+  <rect x="44" y="38" width="254" height="30" rx="15" fill="#ADB0FF" fill-opacity=".12"/>
+  <text x="61" y="59" fill="#BFC5FF" font-size="15" font-weight="600" letter-spacing="2">AI TOOLING / MEMORY CORE</text>
+  <text x="42" y="142" fill="#F0F1FF" font-size="66" font-weight="750" letter-spacing="-2">Nodaris<tspan fill="#9DE5D7">.</tspan></text>
+  <text x="45" y="184" fill="#BEC5E1" font-size="23">Código, contexto e memória de projeto.</text>
+  <path d="M45 216H555" stroke="#414A71"/>
+  <text x="45" y="252" fill="#DBDDF4" font-size="18">Gateway + agente</text><circle cx="226" cy="246" r="3" fill="#9DE5D7"/>
+  <text x="242" y="252" fill="#DBDDF4" font-size="18">Acesso controlado</text>
+  <text x="45" y="284" fill="#DBDDF4" font-size="18">Missões</text><circle cx="132" cy="278" r="3" fill="#9DE5D7"/>
+  <text x="148" y="284" fill="#DBDDF4" font-size="18">Decisões</text><circle cx="242" cy="278" r="3" fill="#9DE5D7"/>
+  <text x="258" y="284" fill="#DBDDF4" font-size="18">Evidências</text>
+  <text x="45" y="327" fill="#949FC6" font-size="14" letter-spacing="2">TYPESCRIPT  /  MCP  /  MARKDOWN</text>
+</g>
+<g stroke="#939DDD" stroke-width="2">
+  <path d="M748 116H788Q803 116 803 131V163H838M968 163H1002Q1016 163 1016 148V116H1048"/>
+  <path d="M904 212V264" stroke-dasharray="5 6"/>
+  <circle cx="803" cy="140" r="4" fill="#AAB1FF"/><circle cx="1016" cy="140" r="4" fill="#9DE5D7"/>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <rect x="641" y="78" width="150" height="76" rx="13" fill="#1C243A" stroke="#59668F"/>
+  <text x="716" y="108" fill="#9DE5D7" font-size="14" letter-spacing="1">ENTRADA</text><text x="716" y="135" fill="#F0F1FF" font-size="22" font-weight="600">Gateway MCP</text>
+  <rect x="838" y="108" width="131" height="104" rx="20" fill="url(#core)" stroke="#AFB4FC" stroke-width="1.5"/>
+  <path d="m882 137 22-12 22 12v25l-22 12-22-12Zm0 0 22 13 22-13m-22 13v24" stroke="#9DE5D7" stroke-width="2"/>
+  <text x="904" y="195" fill="#F0F1FF" font-size="22" font-weight="600">Agente</text>
+  <rect x="1018" y="78" width="141" height="76" rx="13" fill="#1C2939" stroke="#567C85"/>
+  <text x="1088" y="108" fill="#9DE5D7" font-size="14" letter-spacing="1">AUTORIZADOS</text><text x="1088" y="135" fill="#F0F1FF" font-size="22" font-weight="600">Projetos</text>
+  <rect x="752" y="264" width="305" height="64" rx="13" fill="#272440" stroke="#8981B6" stroke-dasharray="5 5"/>
+  <text x="904" y="290" fill="#E1D9FF" font-size="21" font-weight="600">Memória estruturada</text>
+  <text x="904" y="314" fill="#AFA6CE" font-size="14">CORE · INTEGRAÇÃO EM DESENVOLVIMENTO</text>
+</g>
+</svg>

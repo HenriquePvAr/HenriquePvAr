@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<title>Yomu Sekai — visão computacional e tradução</title>
+<desc>Uma composição de páginas ilustradas e etapas de OCR, tradução e reconstrução. Fila, memória de capítulo e quality gate sustentam o pipeline.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#211A23"/><stop offset=".55" stop-color="#17151D"/><stop offset="1" stop-color="#342128"/></linearGradient>
+  <linearGradient id="paper" x1="830" y1="50" x2="1050" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF6E6"/><stop offset="1" stop-color="#D8C8B2"/></linearGradient>
+  <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#FE8D80" opacity=".13"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="1198.5" height="358.5" rx="23.25" stroke="#80544F" stroke-opacity=".55" stroke-width="1.5"/>
+<path d="M680 0H1200V360H590Z" fill="url(#dots)"/>
+<path d="M1106 0 896 360M1174 0 964 360M1038 0 828 360" stroke="#F39380" stroke-opacity=".07" stroke-width="28"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+  <rect x="44" y="38" width="238" height="30" rx="15" fill="#FB8E7D" fill-opacity=".12"/>
+  <text x="61" y="59" fill="#FFA995" font-size="15" font-weight="600" letter-spacing="2">COMPUTER VISION / PT-BR</text>
+  <text x="42" y="142" fill="#FFF4E5" font-size="66" font-weight="750" letter-spacing="-2">Yomu Sekai<tspan fill="#FF8F7E">.</tspan></text>
+  <text x="45" y="184" fill="#D5BDB6" font-size="23">Da página original à leitura em português.</text>
+  <path d="M45 216H555" stroke="#62423F"/>
+  <text x="45" y="252" fill="#F4D7CA" font-size="18">Fila persistente</text><circle cx="202" cy="246" r="3" fill="#FF8F7E"/>
+  <text x="218" y="252" fill="#F4D7CA" font-size="18">Memória de capítulo</text>
+  <text x="45" y="284" fill="#F4D7CA" font-size="18">Reconstrução visual</text><circle cx="242" cy="278" r="3" fill="#FF8F7E"/>
+  <text x="258" y="284" fill="#F4D7CA" font-size="18">Quality gate</text>
+  <text x="45" y="327" fill="#B99389" font-size="14" letter-spacing="2">PYTHON  /  OPENCV  /  RAPIDOCR</text>
+</g>
+<g transform="translate(660 32) rotate(-8 110 130)">
+  <rect x="0" y="0" width="205" height="252" rx="10" fill="#0C0B10" stroke="#825F59" stroke-width="2"/>
+  <rect x="12" y="12" width="181" height="103" rx="4" fill="#483A40"/>
+  <path d="M15 103 68 53 110 92 145 36 191 88" stroke="#A78A85" stroke-width="2"/>
+  <rect x="12" y="125" width="84" height="113" rx="4" fill="#302A33"/><rect x="106" y="125" width="87" height="113" rx="4" fill="#514049"/>
+  <ellipse cx="139" cy="45" rx="38" ry="20" fill="#D9C7BC"/>
+  <path d="M30 153H75M30 163H65" stroke="#AB8F88" stroke-width="3"/>
+</g>
+<g transform="translate(911 39) rotate(8 100 120)">
+  <rect width="205" height="252" rx="10" fill="url(#paper)" stroke="#FFF2DC" stroke-width="2"/>
+  <rect x="12" y="12" width="181" height="103" rx="4" fill="#8D706A"/>
+  <path d="M15 103 68 53 110 92 145 36 191 88" stroke="#D4BCAF" stroke-width="2"/>
+  <rect x="12" y="125" width="84" height="113" rx="4" fill="#AF9288"/><rect x="106" y="125" width="87" height="113" rx="4" fill="#6A5257"/>
+  <ellipse cx="139" cy="45" rx="38" ry="20" fill="#FFF6E6"/>
+  <text x="139" y="51" fill="#35272A" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" text-anchor="middle">OLÁ!</text>
+</g>
+<path d="M859 150H895m-10-10 10 10-10 10" stroke="#FF9B88" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="671" y="296" width="473" height="37" rx="18.5" fill="#100E14" stroke="#75504C"/>
+<text x="907" y="320" text-anchor="middle" fill="#FFD7C7" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing=".5">OCR  →  Tradução  →  Reconstrução</text>
+</svg>
