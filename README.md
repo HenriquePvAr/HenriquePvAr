@@ -48,16 +48,18 @@ O runtime portátil publicado oferece leitura de projetos e Git. O núcleo de me
 
 [Explorar o Nodaris →](https://github.com/HenriquePvAr/Nodaris) · [Arquitetura de memória](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/architecture/NODARIS_MEMORY_BLUEPRINT.md)
 
-## Como penso software
+## Por trás do código
 
-**Entender o problema → construir → testar → melhorar.**
+Gosto de entender o caminho inteiro: da interface ao processamento, dos dados à decisão. É isso que me leva a trabalhar com automação, visão computacional e ferramentas para IA.
 
-Gosto de projetos que conectam diferentes tecnologias e entregam algo utilizável. Tenho interesse tanto na interface que a pessoa vê quanto no processo que faz tudo funcionar por trás.
+- **Investigar a causa.** Entender onde e por que algo falhou antes de escolher a correção.
+- **Tornar o resultado verificável.** Registrar testes, decisões e limitações para poder avaliar o que foi construído.
+- **Dar continuidade ao trabalho.** Organizar código e contexto para que a próxima etapa tenha uma base clara.
 
 ---
 
-<p align="center">
-  <strong>Vamos construir alguma coisa?</strong><br>
-  Aberto a projetos, troca de conhecimento e oportunidades em desenvolvimento.<br><br>
-  <a href="mailto:henriquepaiva128@gmail.com">henriquepaiva128@gmail.com</a>
-</p>
+### Vamos trocar uma ideia?
+
+Para conversar sobre os projetos, colaborar ou falar de uma oportunidade em desenvolvimento:
+
+**[henriquepaiva128@gmail.com ↗](mailto:henriquepaiva128@gmail.com)**
