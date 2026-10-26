@@ -1,12 +1,8 @@
-<img src="./assets/profile-header.svg" width="100%" alt="Henrique Paiva — desenvolvimento de software, automação, OCR e IA aplicada" />
+# Olá, eu sou o Henrique.
 
-<p align="center">
-  <a href="https://github.com/HenriquePvAr?tab=repositories"><strong>Explorar projetos</strong></a> &nbsp; / &nbsp;
-  <a href="mailto:henriquepaiva128@gmail.com"><strong>Conversar por e-mail</strong></a> &nbsp; / &nbsp;
-  <a href="https://game-deals-alpha.vercel.app"><strong>Game Deals ao vivo ↗</strong></a>
-</p>
+<img align="right" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" width="110" alt="Gatinho digitando no computador" />
 
-## Olá, eu sou o Henrique.
+**Python · TypeScript · Automação · IA aplicada**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvo ferramentas com **Python e TypeScript**. Meu foco está em automação, integração de APIs e inteligência artificial aplicada a problemas concretos.
 
@@ -18,29 +14,15 @@ Também trabalho com **suporte técnico**. Investigar falhas, entender o que o u
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/HenriquePvAr/Tradutor.Ia"><img src="./assets/yomu-card.svg" width="100%" alt="Yomu Sekai — OCR e tradução de capítulos ilustrados" /></a>
-<p>Pipeline local de OCR, tradução para PT-BR, reconstrução de imagens e exportação em PDF. Interface própria, fila persistente e revisão de qualidade.</p>
+<p>Um aplicativo para traduzir capítulos de mangás e webtoons para português. Reconhece o texto nas imagens, traduz as falas, aplica a tradução nas páginas e organiza o resultado em PDF, com revisão de qualidade.</p>
 <p><sub><strong>Python · OpenCV · RapidOCR · Automação</strong><br>Em desenvolvimento · beta técnica</sub></p>
 <a href="https://github.com/HenriquePvAr/Tradutor.Ia"><strong>Conhecer o Yomu Sekai →</strong></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/HenriquePvAr/Nodaris"><img src="./assets/nodaris-card.svg" width="100%" alt="Nodaris — integração MCP para consulta de projetos locais autorizados" /></a>
-<p>Conecta clientes de IA a projetos locais por MCP, com autorização explícita de pastas, ferramentas de consulta e inspeção Git.</p>
+<p>Uma ponte entre assistentes de IA e projetos no computador. Permite consultar arquivos, entender o código e inspecionar alterações Git nas pastas que você autoriza, usando o protocolo MCP.</p>
 <p><sub><strong>TypeScript · Node.js · MCP · Integrações</strong><br>Runtime local para Windows</sub></p>
 <a href="https://github.com/HenriquePvAr/Nodaris"><strong>Explorar o Nodaris →</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/HenriquePvAr/Game-Deals"><img src="./assets/game-deals-card.svg" width="100%" alt="Game Deals — agregador de ofertas de jogos" /></a>
-<p>Plataforma de ofertas com busca, filtros por loja, favoritos e detalhes dos jogos. Integração de APIs com uma interface responsiva.</p>
-<p><sub><strong>React · JavaScript · Node.js · Express · Tailwind CSS</strong></sub></p>
-<a href="https://game-deals-alpha.vercel.app"><strong>Abrir aplicação ↗</strong></a> · <a href="https://github.com/HenriquePvAr/Game-Deals">Código</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/HenriquePvAr/analisador-logs-android"><img src="./assets/android-logs-card.svg" width="100%" alt="Android Log Analyzer — automação de diagnóstico com Python" /></a>
-<p>Analisa logs Android, identifica crashes e ANRs, agrupa ocorrências por aplicativo e gera uma linha do tempo para apoiar o diagnóstico.</p>
-<p><sub><strong>Python · Logcat · Análise de dados · QA mobile</strong></sub></p>
-<a href="https://github.com/HenriquePvAr/analisador-logs-android"><strong>Ver ferramenta →</strong></a>
 </td>
 </tr>
 </table>
