@@ -10,7 +10,7 @@ Também trabalho com **suporte técnico**. Investigar falhas, entender o que o u
 
 ## O que estou construindo
 
-<a href="https://github.com/HenriquePvAr/Tradutor.Ia"><img src="./assets/yomu-architecture.svg" width="100%" alt="Yomu Sekai — aquisição, OCR, tradução, reconstrução e revisão em um pipeline orquestrado" /></a>
+<a href="https://github.com/HenriquePvAr/Yomu-Sekai"><img src="./assets/yomu-architecture.svg" width="100%" alt="Yomu Sekai — aquisição, OCR, tradução, reconstrução e revisão em um pipeline orquestrado" /></a>
 
 ### Yomu Sekai · visão computacional, IA e linguagem
 
@@ -26,7 +26,7 @@ Desenvolvo um sistema de tradução de mangás, manhwas e webtoons que combina *
 **Python · OpenCV · RapidOCR · SQLite**<br>
 Beta técnica em desenvolvimento. A fidelidade visual da reconstrução em páginas reais ainda está em validação.
 
-[Explorar o Yomu →](https://github.com/HenriquePvAr/Tradutor.Ia) · [Arquitetura e processos](https://github.com/HenriquePvAr/Tradutor.Ia/blob/main/docs/technical/DOCUMENTACAO_TECNICA.md)
+[Explorar o Yomu →](https://github.com/HenriquePvAr/Yomu-Sekai) · [Arquitetura e processos](https://github.com/HenriquePvAr/Yomu-Sekai/blob/main/docs/technical/DOCUMENTACAO_TECNICA.md)
 
 ---
 
