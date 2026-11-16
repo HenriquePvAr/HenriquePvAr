@@ -1,53 +1,107 @@
+<div align="center">
+
 # Henrique Paiva
 
-## 01 · Apresentação
+**Software Developer · Python · TypeScript · AI Engineering**
 
-**Desenvolvedor de software | Python, TypeScript e sistemas com IA**
+Desenvolvo ferramentas na interseção entre **inteligência artificial, automação e engenharia de software**.
 
-Construo ferramentas que integram inteligência artificial, automação e infraestrutura de software. Atualmente desenvolvo o **Komyst**, para processamento visual de capítulos ilustrados, e o **Nodaris**, que conecta assistentes de IA a projetos locais autorizados.
+Gosto de trabalhar nos problemas que aparecem depois que uma funcionalidade começa a funcionar: confiabilidade, persistência, integração entre serviços, qualidade e controle de acesso.
 
-Estudo Análise e Desenvolvimento de Sistemas e trabalho com suporte técnico. Investigar problemas e transformá-los em soluções práticas faz parte do meu dia a dia.
+[Projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias-e-práticas) · [LinkedIn](https://www.linkedin.com/in/henrique-paiva-14076a367)
 
-## 02 · Projetos em destaque
+</div>
 
-### Komyst
+---
 
-Aplicativo para processar e traduzir capítulos ilustrados, combinando visão computacional, tradução por backend autenticado e reconstrução de imagens.
+## Sobre mim
 
-- Recebe fontes compatíveis ou arquivos locais e organiza o processamento em uma fila persistente, com worker separado.
-- Usa RapidOCR e classificação para localizar e interpretar texto antes da tradução.
-- Reconstrói as páginas e gera os arquivos escolhidos; resultados que precisam de inspeção ficam marcados para revisão.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo profissionalmente com suporte de TI.
 
-<p align="center">
-  <img src="./assets/komyst-nova-traducao.png" width="100%" alt="Tela Komyst para iniciar uma tradução, escolher a origem e acompanhar as etapas do processamento" />
-</p>
+Minha experiência investigando falhas, diagnosticando ambientes e resolvendo problemas reais influencia diretamente a maneira como desenvolvo software.
 
-**Estado:** beta técnica; fidelidade visual e casos sinalizados ainda exigem validação e revisão. [Repositório](https://github.com/HenriquePvAr/Komyst) · [Problemas conhecidos](https://github.com/HenriquePvAr/Komyst/blob/main/docs/KNOWN_ISSUES.md)
+Atualmente, concentro meus estudos e desenvolvimento em dois projetos pessoais: o **Komyst**, voltado ao processamento visual com IA, e o **Nodaris**, uma infraestrutura que conecta assistentes inteligentes a ferramentas e projetos locais.
 
-### Nodaris
+## Projetos em destaque
 
-Infraestrutura MCP que permite a assistentes consultar projetos locais aprovados.
+### Komyst — Processamento visual com inteligência artificial
 
-`Assistente de IA → cliente MCP → Gateway local → agente local → projeto autorizado`
+**Computer Vision · OCR · AI Pipeline · Python**
 
-- O operador seleciona as pastas permitidas; o runtime local protege sua configuração e mantém o Gateway em loopback por padrão.
-- Disponibiliza leitura de arquivos, pesquisa de código e inspeção Git nos projetos autorizados.
-- O runtime portátil atual é somente leitura; escrita em memória ou nos projetos não está habilitada nele.
+O Komyst nasceu de um desafio: automatizar o processamento e a tradução de capítulos ilustrados sem perder de vista a composição visual das páginas.
 
-[Repositório](https://github.com/HenriquePvAr/Nodaris) · [Instalação em outro computador](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/guides/INSTALLATION_NEW_PC.md)
+O sistema combina reconhecimento de texto, classificação de regiões, tradução por um serviço autenticado e reconstrução de imagens em um fluxo de processamento organizado.
 
-## 03 · Tecnologias e práticas
+![Interface do Komyst para configuração de uma nova execução](./assets/komyst-nova-traducao.png)
 
-**Komyst:** Python · OpenCV · RapidOCR · SQLite
+**O que existe por trás da interface**
 
-**Nodaris:** TypeScript · Node.js · MCP
+- **Pipeline visual:** reconhecimento de texto com RapidOCR, classificação contextual e reconstrução de regiões utilizando técnicas de visão computacional.
+- **Execução resiliente:** fila persistente em SQLite, workers isolados e acompanhamento dos estados de processamento.
+- **Controle de qualidade:** verificações de texto e imagem, com sinalização dos resultados que exigem inspeção humana.
+- **Integração com serviços:** autenticação e comunicação com um backend responsável pelas solicitações de tradução.
 
-**Engenharia:** workers isolados · APIs autenticadas · permissões explícitas · testes e revisão de qualidade
+O desafio não é apenas obter um texto traduzido. É coordenar diferentes etapas, preservar o resultado visual e identificar quando uma execução terminou sem necessariamente atingir a qualidade desejada.
 
-Os READMEs dos projetos descrevem as validações executadas e os limites atuais de cada versão.
+**Stack:** Python · OpenCV · RapidOCR · SQLite
 
-## 04 · Atividade e contato
+**Situação atual:** beta técnica em desenvolvimento e validação. Resultados visuais ainda podem exigir revisão.
 
-Estudante de ADS e profissional de suporte técnico. Aberto a conversar sobre IA aplicada, automação, ferramentas de desenvolvimento e oportunidades.
+[**Explorar o projeto**](https://github.com/HenriquePvAr/Komyst) · [Arquitetura](https://github.com/HenriquePvAr/Komyst/blob/main/docs/ARCHITECTURE.md) · [Testes](https://github.com/HenriquePvAr/Komyst/blob/main/docs/TESTING.md)
 
-[LinkedIn](https://www.linkedin.com/in/henrique-paiva-14076a367) · [E-mail](mailto:henriquepaiva128@gmail.com)
+---
+
+### Nodaris — Conectando assistentes de IA a projetos locais
+
+**Developer Tooling · MCP · TypeScript · Local Infrastructure**
+
+O Nodaris surgiu de uma necessidade prática: permitir que assistentes de IA consultem arquivos, código e informações de projetos locais sem receber acesso indiscriminado ao computador.
+
+A infraestrutura utiliza o **Model Context Protocol (MCP)** para conectar clientes de IA a um Gateway e a um agente local que trabalham sobre projetos explicitamente autorizados.
+
+![Arquitetura do Nodaris](./assets/nodaris-architecture.svg)
+
+**O que o Nodaris oferece**
+
+- **Acesso controlado:** seleção explícita das pastas e projetos disponíveis ao agente.
+- **Ferramentas de desenvolvimento:** leitura de arquivos, pesquisa em código e inspeção do histórico e estado de repositórios Git.
+- **Infraestrutura local:** Gateway e agente com comunicação em loopback por padrão, identidade e credenciais próprias por usuário.
+- **Arquitetura extensível:** separação entre comunicação MCP, autorização, execução local e um núcleo de memória estruturada em desenvolvimento.
+
+O objetivo é tornar a colaboração entre desenvolvedores e assistentes de IA mais contextualizada, auditável e controlada.
+
+**Stack:** TypeScript · Node.js · MCP · PowerShell
+
+**Situação atual:** runtime portátil de leitura disponível para Windows. Escrita em projetos e integração operacional da memória permanecem em desenvolvimento.
+
+[**Explorar o projeto**](https://github.com/HenriquePvAr/Nodaris) · [Instalação](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/guides/INSTALLATION_NEW_PC.md) · [Segurança](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/security/SECURITY.md)
+
+---
+
+## Tecnologias e práticas
+
+| Área | Tecnologias e conhecimentos |
+|---|---|
+| Desenvolvimento | Python, TypeScript, Node.js |
+| Inteligência artificial | Integração com LLMs, OCR, visão computacional, MCP |
+| Backend e dados | APIs, SQLite, autenticação e persistência |
+| Engenharia | Git, automação, testes, depuração e isolamento de processos |
+| Infraestrutura | Windows, PowerShell e ferramentas de desenvolvimento |
+
+### Como procuro construir software
+
+Prefiro soluções que possam ser compreendidas, testadas e diagnosticadas.
+
+Nos meus projetos, isso se traduz em separar responsabilidades, registrar estados de execução, estabelecer permissões explícitas e documentar limitações técnicas.
+
+Não considero uma funcionalidade confiável apenas porque funcionou uma vez. Entender seu comportamento diante de falhas também faz parte do desenvolvimento.
+
+---
+
+## Vamos nos conectar?
+
+Tenho interesse em **engenharia de software, IA aplicada, ferramentas para desenvolvedores, automação e qualidade de software**.
+
+Estou aberto a oportunidades profissionais, conversas técnicas e colaborações em projetos.
+
+[**LinkedIn**](https://www.linkedin.com/in/henrique-paiva-14076a367) · [**E-mail**](mailto:henriquepaiva128@gmail.com) · [**GitHub**](https://github.com/HenriquePvAr)
