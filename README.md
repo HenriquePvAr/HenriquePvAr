@@ -4,7 +4,7 @@
 
 [Português](README.md) · [English](README.en.md)
 
-[Projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias-e-praticas) · [Contato](#contato)
+[Projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias-e-práticas) · [Contato](#contato)
 
 </div>
 
@@ -24,7 +24,11 @@ O Komyst automatiza o processamento e a tradução de capítulos ilustrados. Ele
 
 <a href="https://github.com/HenriquePvAr/Komyst"><img src="./assets/komyst-architecture.svg" width="100%" alt="Komyst — da página original à tradução e reconstrução visual" /></a>
 
-![Interface do Komyst para configurar uma nova tradução](./assets/komyst-nova-traducao.png)
+<details>
+  <summary>Visualizar interface do Komyst</summary>
+  <br>
+  <img src="./assets/komyst-nova-traducao.png" width="100%" alt="Interface do Komyst para configurar uma nova tradução" />
+</details>
 
 - **Pipeline visual:** usa RapidOCR para reconhecer texto, classifica regiões e reconstrói áreas da imagem com técnicas de visão computacional.
 - **Execução persistente:** mantém a fila e os estados no SQLite, com workers isolados para processar os jobs.
@@ -62,6 +66,24 @@ O repositório inclui um núcleo de memória estruturada; sua integração opera
 
 **Situação:** runtime portátil de leitura disponível para Windows.
 
+<details>
+  <summary>Ver saída real de uma consulta MCP (sanitizada)</summary>
+
+Consulta executada pelo Nodaris em 16/11/2026. O identificador local e o caminho absoluto foram omitidos.
+
+```text
+nodaris_health
+{"status":"ok","projects":1}
+
+nodaris_project_tree (projeto: Nodaris, profundidade: 2)
+README.md
+package.json
+apps/
+docs/
+tests/
+```
+</details>
+
 [**Explorar o projeto**](https://github.com/HenriquePvAr/Nodaris) · [Instalação](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/guides/INSTALLATION_NEW_PC.md) · [Segurança](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/security/SECURITY.md)
 
 ## Tecnologias e práticas
@@ -76,6 +98,6 @@ O repositório inclui um núcleo de memória estruturada; sua integração opera
 
 ## Contato
 
-Estudo ADS e trabalho com suporte de TI. Tenho interesse em engenharia de software, IA aplicada, ferramentas para desenvolvedores e automação. Estou aberto a oportunidades profissionais e colaborações.
+Estou aberto a oportunidades profissionais, conversas técnicas e colaborações em engenharia de software, IA aplicada, ferramentas para desenvolvedores e automação.
 
 [**LinkedIn**](https://www.linkedin.com/in/henrique-paiva-14076a367) · [**E-mail**](mailto:henriquepaiva128@gmail.com) · [**GitHub**](https://github.com/HenriquePvAr)

@@ -24,7 +24,11 @@ Komyst automates the processing and translation of illustrated chapters. It comb
 
 <a href="https://github.com/HenriquePvAr/Komyst"><img src="./assets/komyst-architecture.svg" width="100%" alt="Komyst — from the original page through translation and visual reconstruction" /></a>
 
-![Komyst screen for setting up a new translation](./assets/komyst-nova-traducao.png)
+<details>
+  <summary>View the Komyst interface</summary>
+  <br>
+  <img src="./assets/komyst-nova-traducao.png" width="100%" alt="Komyst interface for setting up a new translation" />
+</details>
 
 - **Visual pipeline:** uses RapidOCR for text recognition, classifies regions, and reconstructs image areas with computer vision techniques.
 - **Persistent execution:** stores the queue and job states in SQLite and processes jobs with isolated workers.
@@ -62,6 +66,24 @@ The repository includes a structured memory core; its operational integration in
 
 **Status:** read-only portable runtime available for Windows.
 
+<details>
+  <summary>View real MCP query output (sanitized)</summary>
+
+Query executed through Nodaris on 2026-11-16. The local machine identifier and absolute path are omitted.
+
+```text
+nodaris_health
+{"status":"ok","projects":1}
+
+nodaris_project_tree (project: Nodaris, depth: 2)
+README.md
+package.json
+apps/
+docs/
+tests/
+```
+</details>
+
 [**Explore the project**](https://github.com/HenriquePvAr/Nodaris) · [Installation](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/guides/INSTALLATION_NEW_PC.md) · [Security](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/security/SECURITY.md)
 
 ## Technologies and practices
@@ -76,6 +98,6 @@ The repository includes a structured memory core; its operational integration in
 
 ## Contact
 
-I am studying ADS and work in IT support. I am interested in software engineering, applied AI, developer tools, and automation. Open to professional opportunities and collaboration.
+Open to professional opportunities, technical conversations, and collaboration in software engineering, applied AI, developer tools, and automation.
 
 [**LinkedIn**](https://www.linkedin.com/in/henrique-paiva-14076a367) · [**Email**](mailto:henriquepaiva128@gmail.com) · [**GitHub**](https://github.com/HenriquePvAr)
