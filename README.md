@@ -1,65 +1,53 @@
-# Olá, eu sou o Henrique.
+# Henrique Paiva
 
-<img align="right" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" width="110" alt="Gatinho digitando no computador" />
+## 01 · Apresentação
 
-**Python · TypeScript · Automação · IA aplicada**
+**Desenvolvedor de software | Python, TypeScript e sistemas com IA**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvo ferramentas com **Python e TypeScript**. Meu foco está em automação, integração de APIs e inteligência artificial aplicada a problemas concretos.
+Construo ferramentas que integram inteligência artificial, automação e infraestrutura de software. Atualmente desenvolvo o **Komyst**, para processamento visual de capítulos ilustrados, e o **Nodaris**, que conecta assistentes de IA a projetos locais autorizados.
 
-Também trabalho com **suporte técnico**. Investigar falhas, entender o que o usuário precisa e encontrar a causa de um problema fazem parte da minha rotina  e da forma como construo software.
+Estudo Análise e Desenvolvimento de Sistemas e trabalho com suporte técnico. Investigar problemas e transformá-los em soluções práticas faz parte do meu dia a dia.
 
-## O que estou construindo
+## 02 · Projetos em destaque
 
-<a href="https://github.com/HenriquePvAr/Yomu-Sekai"><img src="./assets/yomu-architecture.svg" width="100%" alt="Yomu Sekai — aquisição, OCR, tradução, reconstrução e revisão em um pipeline orquestrado" /></a>
+### Komyst
 
-### Yomu Sekai · visão computacional, IA e linguagem
+Aplicativo para processar e traduzir capítulos ilustrados, combinando visão computacional, tradução por backend autenticado e reconstrução de imagens.
 
-Desenvolvo um sistema de tradução de mangás, manhwas e webtoons que combina **visão computacional, inteligência artificial e processamento de linguagem natural (PLN)**. O pipeline localiza e reconhece textos com OCR, segmenta regiões com máscaras e usa inpainting para reconstruir as áreas após a remoção dos caracteres. Depois, traduz as falas, verifica a consistência dos termos e ajusta a tipografia aos balões, buscando preservar a composição artística original.
-
-| Camada | Como funciona |
-| :--- | :--- |
-| **Interface e execução** | A UI grava jobs em uma fila SQLite. Um worker supervisionado executa cada job em um processo próprio e persiste progresso e resultados. |
-| **Pipeline visual e linguístico** | Adapters coletam as páginas; RapidOCR identifica texto; a classificação contextual distingue falas, narração e SFX. A tradução passa por backend autenticado, com o motor remoto no servidor. |
-| **Memória de capítulo** | Um ledger de terminologia e um registro de personagens mantêm nomes e formas canônicas consistentes dentro do capítulo. Cache e artefatos persistidos permitem reutilizar etapas válidas. |
-| **Reconstrução e qualidade** | OpenCV, máscaras e inpainting apoiam a reconstrução; a análise geométrica orienta a posição e o tamanho da tradução. Verificações de resíduos de texto e alterações visuais registram evidências e encaminham casos duvidosos para revisão humana. |
-
-**Python · OpenCV · RapidOCR · SQLite**<br>
-Beta técnica em desenvolvimento. A fidelidade visual da reconstrução em páginas reais ainda está em validação.
-
-[Explorar o Yomu →](https://github.com/HenriquePvAr/Yomu-Sekai) · [Arquitetura e processos](https://github.com/HenriquePvAr/Yomu-Sekai/blob/main/docs/technical/DOCUMENTACAO_TECNICA.md)
-
----
-
-<a href="https://github.com/HenriquePvAr/Nodaris"><img src="./assets/nodaris-architecture.svg" width="100%" alt="Nodaris — Gateway MCP, agente local, projetos autorizados e núcleo de memória estruturada" /></a>
-
-### Nodaris · contexto de projeto para assistentes de IA
-
-Desenvolvo uma infraestrutura para conectar assistentes de IA a projetos locais com acesso controlado. Além de consultar arquivos, pesquisar código e inspecionar Git, o projeto tem um núcleo de memória estruturada para preservar o contexto do trabalho entre sessões: o que foi tentado, por que uma decisão foi tomada e quais evidências sustentam cada conclusão.
-
-| Camada | Como funciona |
-| :--- | :--- |
-| **Gateway MCP + agente local** | O Gateway expõe as ferramentas aos clientes de IA; o agente valida cada solicitação e acessa somente as pastas autorizadas. Os processos se comunicam por HTTP autenticado e rodam em loopback por padrão. |
-| **Registry e permissões** | O desenho de autorização vincula repositório, workspace e vault por identidade. Leitura, escrita de memória e escrita de projeto têm escopos próprios; uma não libera a outra. |
-| **Núcleo de memória** | Vault Markdown como fonte de verdade, com missões, bugs, tentativas, decisões, experimentos, evidências e sessões relacionados por IDs. Histórico e resumos de continuidade distinguem relato, observação de teste e verificação Git. |
-| **Escrita controlada** | O core separa proposta, aprovação e aplicação, com revisão esperada, hashes e recibos vinculados ao preview. A integração operacional depende dos gates locais de autorização, segurança e recuperação. |
-
-**TypeScript · Node.js · MCP · Markdown / Obsidian**<br>
-O runtime portátil publicado oferece leitura de projetos e Git. O núcleo de memória existe no repositório; sua habilitação no runtime portátil e a escrita em projetos continuam em desenvolvimento.
-
-[Explorar o Nodaris →](https://github.com/HenriquePvAr/Nodaris) · [Arquitetura de memória](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/architecture/NODARIS_MEMORY_BLUEPRINT.md)
-
----
+- Recebe fontes compatíveis ou arquivos locais e organiza o processamento em uma fila persistente, com worker separado.
+- Usa RapidOCR e classificação para localizar e interpretar texto antes da tradução.
+- Reconstrói as páginas e gera os arquivos escolhidos; resultados que precisam de inspeção ficam marcados para revisão.
 
 <p align="center">
-  <a href="https://tenor.com/view/pusheen-typing-gif-10377624"><img src="https://media1.tenor.com/m/tIJf3wJYY_IAAAAd/pusheen-typing.gif" width="180" alt="Gatinho animado trabalhando no notebook" /></a>
+  <img src="./assets/komyst-nova-traducao.png" width="100%" alt="Tela Komyst para iniciar uma tradução, escolher a origem e acompanhar as etapas do processamento" />
 </p>
 
-<h2 align="center">Bora construir a próxima ideia?</h2>
+**Estado:** beta técnica; fidelidade visual e casos sinalizados ainda exigem validação e revisão. [Repositório](https://github.com/HenriquePvAr/Komyst) · [Problemas conhecidos](https://github.com/HenriquePvAr/Komyst/blob/main/docs/KNOWN_ISSUES.md)
 
-<p align="center">Curte automação, IA aplicada ou tem um projeto em mente?<br>Me chama para conversar sobre código, colaborar ou falar de uma oportunidade.</p>
+### Nodaris
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/henrique-paiva-14076a367"><img src="./assets/contact-linkedin.svg" width="176" height="48" alt="LinkedIn — Henrique Paiva" /></a>
-  &nbsp;
-  <a href="mailto:henriquepaiva128@gmail.com"><img src="./assets/contact-email.svg" width="176" height="48" alt="Enviar e-mail para Henrique Paiva" /></a>
-</p>
+Infraestrutura MCP que permite a assistentes consultar projetos locais aprovados.
+
+`Assistente de IA → cliente MCP → Gateway local → agente local → projeto autorizado`
+
+- O operador seleciona as pastas permitidas; o runtime local protege sua configuração e mantém o Gateway em loopback por padrão.
+- Disponibiliza leitura de arquivos, pesquisa de código e inspeção Git nos projetos autorizados.
+- O runtime portátil atual é somente leitura; escrita em memória ou nos projetos não está habilitada nele.
+
+[Repositório](https://github.com/HenriquePvAr/Nodaris) · [Instalação em outro computador](https://github.com/HenriquePvAr/Nodaris/blob/main/docs/guides/INSTALLATION_NEW_PC.md)
+
+## 03 · Tecnologias e práticas
+
+**Komyst:** Python · OpenCV · RapidOCR · SQLite
+
+**Nodaris:** TypeScript · Node.js · MCP
+
+**Engenharia:** workers isolados · APIs autenticadas · permissões explícitas · testes e revisão de qualidade
+
+Os READMEs dos projetos descrevem as validações executadas e os limites atuais de cada versão.
+
+## 04 · Atividade e contato
+
+Estudante de ADS e profissional de suporte técnico. Aberto a conversar sobre IA aplicada, automação, ferramentas de desenvolvimento e oportunidades.
+
+[LinkedIn](https://www.linkedin.com/in/henrique-paiva-14076a367) · [E-mail](mailto:henriquepaiva128@gmail.com)
