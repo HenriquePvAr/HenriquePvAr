@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Henrique Paiva — Software Developer</title>
+  <desc id="descricao">Python, TypeScript e engenharia de IA, com destaque para os projetos Komyst e Nodaris.</desc>
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10131D"/>
+      <stop offset=".58" stop-color="#171824"/>
+      <stop offset="1" stop-color="#202039"/>
+    </linearGradient>
+    <linearGradient id="linha" x1="48" y1="230" x2="1150" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F47F73"/>
+      <stop offset="1" stop-color="#93DCCD"/>
+    </linearGradient>
+    <pattern id="grade" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#C6C9F3" opacity=".14"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="22" fill="url(#fundo)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="21" fill="url(#grade)" stroke="#586078" stroke-opacity=".5"/>
+  <path d="M770 0h430v280H640z" fill="url(#grade)" opacity=".65"/>
+  <path d="M880 0 760 280M1015 0 895 280M1150 0 1030 280" stroke="#8A8DBB" stroke-opacity=".08" stroke-width="32"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="58" y="86" fill="#AEB6D1" font-size="15" font-weight="600" letter-spacing="3">SOFTWARE DEVELOPER</text>
+    <text x="54" y="151" fill="#F3F2F5" font-size="54" font-weight="700" letter-spacing="-1.5">Henrique Paiva</text>
+    <text x="58" y="190" fill="#D4D5E0" font-size="22">Python · TypeScript · AI Engineering</text>
+    <path d="M58 226H1140" stroke="url(#linha)" stroke-opacity=".75" stroke-width="2"/>
+    <circle cx="58" cy="226" r="5" fill="#F47F73"/>
+    <circle cx="1140" cy="226" r="5" fill="#93DCCD"/>
+    <text x="58" y="256" fill="#FFAA9B" font-size="13" font-weight="600" letter-spacing="2">KOMYST · COMPUTER VISION</text>
+    <text x="1140" y="256" fill="#A6E9DC" font-size="13" font-weight="600" letter-spacing="2" text-anchor="end">NODARIS · MCP / LOCAL TOOLING</text>
+  </g>
+</svg>

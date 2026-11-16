@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
-<title>Yomu Sekai — visão computacional e tradução</title>
+<title>Komyst — visão computacional e tradução</title>
 <desc>Uma composição de páginas ilustradas e etapas de OCR, tradução e reconstrução. Fila, memória de capítulo e quality gate sustentam o pipeline.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#211A23"/><stop offset=".55" stop-color="#17151D"/><stop offset="1" stop-color="#342128"/></linearGradient>
@@ -13,7 +13,7 @@
 <g font-family="Segoe UI,Arial,sans-serif">
   <rect x="44" y="38" width="238" height="30" rx="15" fill="#FB8E7D" fill-opacity=".12"/>
   <text x="61" y="59" fill="#FFA995" font-size="15" font-weight="600" letter-spacing="2">COMPUTER VISION / PT-BR</text>
-  <text x="42" y="142" fill="#FFF4E5" font-size="66" font-weight="750" letter-spacing="-2">Yomu Sekai<tspan fill="#FF8F7E">.</tspan></text>
+  <text x="42" y="142" fill="#FFF4E5" font-size="66" font-weight="750" letter-spacing="-2">Komyst<tspan fill="#FF8F7E">.</tspan></text>
   <text x="45" y="184" fill="#D5BDB6" font-size="23">Da página original à leitura em português.</text>
   <path d="M45 216H555" stroke="#62423F"/>
   <text x="45" y="252" fill="#F4D7CA" font-size="18">Fila persistente</text><circle cx="202" cy="246" r="3" fill="#FF8F7E"/>
